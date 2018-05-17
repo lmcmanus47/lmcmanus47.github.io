@@ -11,8 +11,7 @@ navbar:
       href: research.html
     - text: "CV"
       href: cv.html
-  output:
-    html_document:
-      theme: flatly
-      highlight: tango
+output:
+  html_document:
+    css: style.css
     

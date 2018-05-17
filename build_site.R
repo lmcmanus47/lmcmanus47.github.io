@@ -6,3 +6,6 @@ setwd("/Volumes/GoogleDrive/My Drive/Website/lmcmanus47.github.io")
 
 #render your sweet site. 
 rmarkdown::render_site()
+
+
+
