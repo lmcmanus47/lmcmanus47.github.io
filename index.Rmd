@@ -1,24 +1,15 @@
-<center>
+
+
 ---
 title: "Lisa C. McManus"
 ---
-</center>
-
-
-Postdoctoral Associate <br>
 lisa.c.mcmanus (at) rutgers.edu <br>
+Postdoctoral Associate <br>
 Department of Ecology, Evolution, and Natural Resources <br>
 Rutgers University  
 
-
 <center>
-![](coral_long2.png){
+![](coral_long3.jpg){
 width=100% }
 </center>
-
-&nbsp;
-&nbsp;
-&nbsp;
-
-
 
