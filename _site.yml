@@ -1,8 +1,7 @@
----
 name: "lisa-website"
 output_dir: "."
 navbar:
-  title: "Lisa's Website"
+  title: "Lisa C. McManus"
   left:
     - text: "Home"
       href: index.html
@@ -13,6 +12,7 @@ navbar:
     - text: "CV"
       href: cv.html
   output:
-    rmarkdown::html_document:
-      theme: lumen
----
+    html_document:
+      theme: flatly
+      highlight: tango
+    

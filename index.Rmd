@@ -1,5 +1,9 @@
 ---
-title: "Lisa's Website"
+title: ""
 ---
 
-Hello, World!
+Lisa C. McManus
+Postdoctoral Associate
+Department of Ecology, Evolution, and Natural Resources
+Rutgers University
+lisa.c.mcmanus 'at' rutgers.edu
