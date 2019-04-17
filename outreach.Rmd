@@ -3,7 +3,7 @@ title: "Outreach"
 ---
 
 ### New Brunswick High School agent-based modeling project  
-During the spring of 2018, I worked with the <a href="http://hs.nbpschools.net/"> New Brunswick High School </a> Science, Technology, Engineering and Mathematics Club </a> on an agent-based modeling project based the coral-algal competition model I developed during my PhD. We used the NetLogo programming language through <a href="https://netlogoweb.org"> NetLogo Web</a>. Below are some of the materials I used during this short, informal course and project. <br>
+I work with the <a href="http://hs.nbpschools.net/"> New Brunswick High School </a> Science, Technology, Engineering and Mathematics Club </a> on an agent-based modeling project based the coral-algal competition model I developed during my PhD. We used the NetLogo programming language through <a href="https://netlogoweb.org"> NetLogo Web</a>. Below are some of the materials I used during this short, informal course and project. <br>
 
 <img src="netlogo.jpg" alt="netlogo" style="height: 400px; padding-right: 10px;" align="left">
 
