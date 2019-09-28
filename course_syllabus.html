@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Lisa McManus" />
+
+<meta name="date" content="2019-09-28" />
+
+<title>Course Overview</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Lisa C. McManus</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="outreach.html">Outreach</a>
+</li>
+<li>
+  <a href="cv.html">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Course Overview</h1>
+<h4 class="author">Lisa McManus</h4>
+<h4 class="date">2019-09-28</h4>
+
+</div>
+
+
+<div id="biol-104-po" class="section level1">
+<h1>BIOL 104 PO</h1>
+<div id="conservation-science-theories-and-solutions" class="section level2">
+<h2>Conservation Science: Theories and Solutions</h2>
+<p>This is the <a href="https://charlottehchang.github.io/BIOL104PO/">course website</a> for “Conservation Science: Theories and Solutions” at <a href="https://www.pomona.edu/">Pomona College</a> in the departments of <a href="https://www.pomona.edu/academics/departments/biology">Biology</a> and <a href="https://www.pomona.edu/academics/departments/environmental-analysis">Environmental Analysis</a>. Dr. <a href="http://charlottehchang.github.io">Charlotte Chang</a> is the instructor.</p>
+<p><strong>Spring 2019</strong></p>
+<p><strong>Location</strong>: Seaver South Laboratory 227 (Lecture and Labs)</p>
+<p><strong>Schedule</strong>: <em>Lecture</em>-MWF 10-10:50AM (1/23/19-5/8/19) | <em>Lab</em>-W 1:15-2:30PM</p>
+<p><strong>Office Hours</strong>: <em>Office</em>-T 1-3PM | <em>Walking</em>-R 1-2PM</p>
+<p><strong>Prerequisites</strong>: Bio 41E (Intro Ecol &amp; Evolutionary Bio w/Lab) or instructor permission <em>Suggested Courses</em>: Math 58/B (Intro. to Statistics/Biostatistics)</p>
+<p><strong>Readings</strong>: This course will use a combination of the primary literature, popular science books, and the free, online textbook <a href="https://conbio.org/publications/free-textbook"><em>Conservation Biology for All</em></a>.</p>
+<p><strong>Student Well-Being</strong>: In addition to the course policies below, I emphasize that I prioritize your health and well-being. Physical or mental illness, personal crises, family care, and other responsibilities can strongly impact your ability to participate in this course. Please let me and/or staff in the Student Affairs or related offices know if any of these issues pose severe obstacles to you and we will work together to come up with solutions. I am also more than happy to work with you and a representative from Student Affairs in situations where sensitive information is involved.</p>
+</div>
+<div id="course-description" class="section level2">
+<h2>Course description</h2>
+<p>Recent studies estimate that as many as 10-50% of all species on Earth are at risk of extinction. Different anthropogenic activities such as land conversion for agriculture or the exploitation of natural resources such as fisheries and bushmeat pose major threats to biodiversity.</p>
+<p>Ultimately, the threats facing species and ecosystems are driven by human behaviors and societal decisions. Finding solutions therefore requires the combination of the social sciences alongside ecology. This course will introduce you to a broad range of theories and techniques from the social sciences that are relevant to conservation science. This course does not have social science prerequisites. I do not assume that students in these class have received training in the social sciences. As such, most of the material that we will cover in class will take the form of conceptual models linked to “lessons learned” from conservation successes or failures. The course will be centered on discussions and collaborative group work. In this course, you will also be introduced to key computational tools used by conservation scientists and you will apply these skills in your own projects.</p>
+<ul>
+<li><em>Reading</em>: You will interpret, synthesize, extend, and question 68 primary research articles.</li>
+<li><em>Presentation</em>: Describing complex issues with clarity and persuasion is a highly translatable skill. This course will offer many opportunities to further develop your presentation skills, including speed presentations on readings and group presentations.</li>
+<li><em>Synthesis</em>: Creating socio-ecological conceptual models is a critical skill for conservation science. This course will allow you to build your skills in concept-mapping and interpreting claims in the literature.</li>
+<li><em>Data management, analysis, and visualization</em>: This course has a computational lab where you will be able to develop skills in statistical programming using the <code>R</code> programming language. I do not assume any prior experience with programming. Moreover, you will learn how to use version control tools (Git and Git Hub) by submitting your assignments using Git Hub Classroom. Assignments are graded on a 3 point scale.</li>
+<li><em>Geographic Information Systems (GIS)</em>: This course will offer an introduction to spatial mapping (GIS) in R. You will learn about geospatial data and how to perform exploratory analyses.</li>
+<li><em>Social and ecological databases</em>: You will learn how to access databases using efficient, programmatic interfaces and how to interact with data of small, medium, and large sizes.</li>
+<li><em>Lived experience</em>: As conservation scientists, our views are inherently shaped by our past experiences. In the course, you will read papers on environmental engagement and you will apply and interrogate these theories in your own, immersive socio-ecological research in a local field system. Examples include: water conservation challenges in a desert city, the built environment and fire regimes, threatened species conservation in the Bernard Field Station.</li>
+</ul>
+</div>
+<div id="course-assessment" class="section level2">
+<h2>Course assessment</h2>
+<ul>
+<li>Class and lab participation (15%)</li>
+<li>Co-generated discussion points (students submit discussion topics/questions) (10%)</li>
+<li>Speed Talks: Interpreting articles (15%)</li>
+<li>Project 1: Immersive socio-ecological research (30%)</li>
+<li>Project 2: Investigating a contemporary conservation challenge (30%)</li>
+</ul>
+</div>
+<div id="course-policies" class="section level2">
+<h2>Course policies</h2>
+<p><em>General</em>: In this course, we will respectfully consider differing opinions and engage in constructive discourse. Otherwise, this course is your own personal journey, and as such, I expect students to take leadership in their own learning and to keep track of assignments and examination dates.</p>
+<p><em>Laptops and cell phones</em>: I encourage the use of paper and pen to take notes in course. We will use polls with the Socrative Teacher app; students who do not have personal electronic devices will be provided one for use during class. The laboratory will use either personal laptops or lab computers.</p>
+<p><em>Absences</em>: I expect that students will prioritize their learning in this course and will actively participate in the discussions, activities, and lab. However, I understand that students have many demands on their time, ranging from athletic or scholastic commitments to family and personal responsibilities. Unexcused absences where I have not been informed in advance will lead to grade reductions. Please let me know when you will not be able to come to class, or will be coming late, and indicate why.</p>
+<p><em>Late assignments</em>: When assignments are handed in late without prior notice, I will apply a grade deduction penalty (1 grade reduction for each day late).</p>
+<p><em>Plagiarism</em>: Plagiarism is a violation of university policy. Plagiarized assignments or exams will receive a score of 0 and will be subject to reporting.</p>
+<p><em>Office &amp; walking hours, email, and more</em>: During office hours, I am available to help you work through any problems, questions, or thoughts you have about the course. If you would like to discuss a particular problem or topic that would benefit from preparation on my part, please give me advance notice via email. I will hold both traditional office hours and walking office hours where we will depart from Seaver and walk and chat on a fixed course through campus. I will post my walking routes online so that you can find me at any point on the walk. I have email boundaries and I encourage you to find your own. Mine include not answering emails after 7pm, or on weekends or holidays.</p>
+<p><em>Academic accommodations</em>: If you require accommodations, please contact the <a href="https://www.pomona.edu/accessibility/student-accessibility/accommodation-services">Student Accessibility Office</a> as soon as possible so that we can set the conditions in place for you to succeed. I require a minimum of one day’s notice from the Student Accessibility Office before any modifications to an exam or assignment, so again, please contact me and the Student Accessibility Office early in the semester if these services are key for your learning.</p>
+</div>
+<div id="course-schedule" class="section level2">
+<h2>Course Schedule</h2>
+<p>Note that <strong>L</strong> denotes lecture and <strong>B</strong> lab. <!--Week 1; n=26 students?; 8 small groups--></p>
+<table style="width:97%;">
+<colgroup>
+<col width="9%" />
+<col width="5%" />
+<col width="9%" />
+<col width="50%" />
+<col width="22%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>#</th>
+<th>Type</th>
+<th>Topic</th>
+<th>Resources</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1/23</td>
+<td>1</td>
+<td>L</td>
+<td>Introduction: Personal motivations, Conservation Threats Overview</td>
+<td>pereira2010scenarios; steffen2015planetary; waters2016anthropocene</td>
+</tr>
+<tr class="even">
+<td>1/23</td>
+<td>1</td>
+<td>B</td>
+<td>Introduction to <code>R</code>, Git, and Git Hub</td>
+<td><a href="https://swirlstats.com/">swirl</a></td>
+</tr>
+<tr class="odd">
+<td>1/25</td>
+<td>2</td>
+<td>L</td>
+<td>Contemporary threats: Over-exploitation</td>
+<td><a href="https://conbio.org/images/content_publications/Chapter6.pdf">Conservation Biology for All, Chapter 6</a>; young2016patterns; osuri2016contrasting</td>
+</tr>
+<tr class="even">
+<td>1/28</td>
+<td>3</td>
+<td>L</td>
+<td>Contemporary threats: Habitat loss</td>
+<td><a href="https://conbio.org/images/content_publications/Chapter5.pdf">Conservation Biology for All, Chapter 5</a>; tilman1994habitat; mueller2012closing</td>
+</tr>
+<tr class="odd">
+<td>1/30</td>
+<td>4</td>
+<td>L</td>
+<td>Contemporary threats: Consumer behaviors and Invasive Species</td>
+<td><a href="https://conbio.org/images/content_publications/Chapter7.pdf">Conservation Biology for All, Chapter 7</a>; chang2016international</td>
+</tr>
+<tr class="even">
+<td>1/30</td>
+<td>2</td>
+<td>B</td>
+<td>Interacting with the IUCN Red List <a href="https://cran.r-project.org/web/packages/rredlist/">rredlist</a></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>2/1</td>
+<td>5</td>
+<td>L</td>
+<td>Contemporary threats: Climate change</td>
+<td><a href="https://conbio.org/images/content_publications/Chapter8.pdf">Conservation Biology for All, Chapter 8</a>; pacala2004stabilization; thomas2004extinction</td>
+</tr>
+<tr class="even">
+<td>2/4</td>
+<td>6</td>
+<td>L</td>
+<td>Conservation in practice: Protecting endangered species</td>
+<td>rohlf1991six; <a href="https://www.press.uchicago.edu/ucp/books/book/chicago/W/bo13823467.html">Wild Hope, Chapter 3</a>; <a href="https://www.youtube.com/watch?v=fNWC4fTUU08">Safe Harbors and RCWs</a></td>
+</tr>
+<tr class="odd">
+<td>2/6</td>
+<td>7</td>
+<td>L</td>
+<td>How do we prioritize locating nature reserves given limited resources?</td>
+<td>ando1998species; margules2000systematic; watson2011systematic</td>
+</tr>
+<tr class="even">
+<td>2/6</td>
+<td>3</td>
+<td>B</td>
+<td>Systematic Conservation Prioritization</td>
+<td><a href="https://prioritizr.net/">prioritizR</a>; <a href="https://www.youtube.com/watch?v=1IDeKJJO7s8">Marxan video</a></td>
+</tr>
+<tr class="odd">
+<td>2/8</td>
+<td>8</td>
+<td>L</td>
+<td>Parks and people or people vs. parks?</td>
+<td>balmford2003should; adams2007people</td>
+</tr>
+<tr class="even">
+<td>2/11</td>
+<td>9</td>
+<td>L</td>
+<td>How do we track population recovery? (And conversely, detect when species are in trouble?)</td>
+<td><a href="https://www.cbd.int/doc/pa/tools/A%20Practical%20Handbook%20for%20Population%20Viability%20Analysis.pdf">Morris, Doak, et al., Chapters 1, 2, and 4</a></td>
+</tr>
+<tr class="odd">
+<td>2/13</td>
+<td>10</td>
+<td>L</td>
+<td>Population viability analysis as a conservation tool</td>
+<td><a href="https://www.cbd.int/doc/pa/tools/A%20Practical%20Handbook%20for%20Population%20Viability%20Analysis.pdf">Morris, Doak, et al., Chapters 1, 2, and 4</a></td>
+</tr>
+<tr class="even">
+<td>2/13</td>
+<td>4</td>
+<td>B</td>
+<td>Simulating species trajectories</td>
+<td><a href="https://www.compadre-db.org/">com/padre</a> and <a href="https://cran.r-project.org/web/packages/popbio/index.html">popbio</a></td>
+</tr>
+<tr class="odd">
+<td>2/15</td>
+<td>11</td>
+<td>L</td>
+<td>Going from the Red List to a Green List perspective</td>
+<td>akccakaya2018quantifying and <a href="https://news.mongabay.com/2018/03/iucn-green-list-of-species-a-new-way-to-measure-conservation-success/">related press</a>; <a href="https://www.youtube.com/watch?v=S-4872sB6jI">Earth Optimism</a>; <a href="https://www.youtube.com/watch?v=164Ksg2fqCw">Conservation Evidence</a></td>
+</tr>
+<tr class="even">
+<td>2/18</td>
+<td>12</td>
+<td>L</td>
+<td>Conservation as a problem of environmental public goods</td>
+<td><a href="https://www.youtube.com/watch?v=E1v5eRs0_fw">Public vs. Private Goods</a>; ostrom1999revisiting; levin2014public; <a href="https://conbio.org/images/content_publications/Chapter14.pdf">Conservation Biology for All, Ch. 14</a></td>
+</tr>
+<tr class="odd">
+<td>2/20</td>
+<td>13</td>
+<td>L</td>
+<td>The ecosystem services framework</td>
+<td><a href="https://conbio.org/images/content_publications/Chapter3.pdf">Conservation Biology for All, Chapter 3</a>; <a href="https://www.youtube.com/watch?v=q8AZHtF2f50">Valuation of Ecosystem Services</a>; tallis2009mapping; muradian2013payments</td>
+</tr>
+<tr class="even">
+<td>2/20</td>
+<td>5</td>
+<td>B</td>
+<td>Public goods games and mapping community-managed lands</td>
+<td><a href="https://bookdown.org/robinlovelace/geocompr/spatial-class.html">geocomputation (Chs. 2, 3, 4)</a></td>
+</tr>
+<tr class="odd">
+<td>2/22</td>
+<td>14</td>
+<td>L</td>
+<td>Different models of conservation governance</td>
+<td>dietz2003struggle; agrawal2008changing; burivalova2017critical</td>
+</tr>
+<tr class="even">
+<td>2/25</td>
+<td>15</td>
+<td>L</td>
+<td>Environmental psychology: How do human systems perceive, react to, and affect environmental systems?</td>
+<td>stern1992psychological; dunlap2000NEP</td>
+</tr>
+<tr class="odd">
+<td>2/27</td>
+<td>16</td>
+<td>L</td>
+<td>Beliefs, identities, and actions affecting environmental (public) goods</td>
+<td>ajzen2011knowledge; kahan2012polarizing</td>
+</tr>
+<tr class="even">
+<td>2/27</td>
+<td>6</td>
+<td>B</td>
+<td>Simulating environmental opinion dynamics (game and code)</td>
+<td>sunstein2002law; centola2015spontaneous</td>
+</tr>
+<tr class="odd">
+<td>3/1</td>
+<td>17</td>
+<td>L</td>
+<td>Using decision science to design more effective conservation outreach</td>
+<td>clayton2013psychological; masuda2017comms; reddy2017advancing; <a href="https://www.youtube.com/watch?v=X9KP8uiGZTs">RARE Film</a></td>
+</tr>
+<tr class="even">
+<td>3/4</td>
+<td>18</td>
+<td>L</td>
+<td>Conserving harvested marine species</td>
+<td>mangel1996principles; <a href="https://www.youtube.com/watch?v=7DNhqtYf47E">Fisheries Economics Video</a>; <a href="https://www.uio.no/studier/emner/sv/oekonomi/ECON4925/h10/undervisningsmateriale/lecture_11-12_renew(1511).pdf">Diekert pages 1-5</a></td>
+</tr>
+<tr class="odd">
+<td>3/6</td>
+<td>19</td>
+<td>L</td>
+<td>Ecological interactions and implications for management; bioeconomic simulations in class</td>
+<td>holt1977predation; may1979management; <a href="http://www.demonstrations.wolfram.com/EcosystemDynamics/">Eide - Wolfram Demo</a>; <a href="https://rlhick.people.wm.edu/posts/gordon-shaefer-model.html">Hicks Lab</a></td>
+</tr>
+<tr class="even">
+<td>3/6</td>
+<td>7</td>
+<td>B</td>
+<td>Immersive socio-ecological research I</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3/8</td>
+<td>20</td>
+<td>L</td>
+<td>MPAs and institutions for fisheries management</td>
+<td>baskett2007designing; costello2008can; <a href="https://www.youtube.com/watch?v=pyQk786TCoQ">ITQs</a></td>
+</tr>
+<tr class="even">
+<td>3/11</td>
+<td>21</td>
+<td>L</td>
+<td>What is driving wild meat harvest on land?</td>
+<td>golden2011benefits; duffy2016toward; nielsen2018importance; <a href="https://www.cifor.org/bushmeat/about/bushmeat/">CIFOR Bushmeat Initiative</a></td>
+</tr>
+<tr class="odd">
+<td>3/13</td>
+<td>22</td>
+<td>L</td>
+<td>Exploring poverty and livelihoods datasets in relation to environmental features</td>
+<td><a href="https://d-place.org/contributions/EA">D-PLACE</a>, <a href="https://data.cifor.org/dataset.xhtml?persistentId=doi:10.17528/CIFOR/DATA.00021">CIFOR PEN</a>, <a href="https://earthdata.nasa.gov/about/daacs/daac-sedac">NASA SEDAC</a></td>
+</tr>
+<tr class="even">
+<td>3/13</td>
+<td>8</td>
+<td>B</td>
+<td>Immersive socio-ecological research II</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3/15</td>
+<td>23</td>
+<td>L</td>
+<td>Strategies to manage hunting (in tropical regions)</td>
+<td><a href="https://www.youtube.com/watch?v=KahYbd05UNk">Background on the North American Model: Sen. Heinrich</a>; <a href="https://www.rare.org/sites/default/files/ToC_Booklet_Final_Rare.pdf">RARE: Theory of Change</a>; robinson2010protecting</td>
+</tr>
+<tr class="even">
+<td>3/18</td>
+<td>-</td>
+<td>-</td>
+<td>Spring Recess</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3/20</td>
+<td>-</td>
+<td>-</td>
+<td>Spring Recess</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>3/22</td>
+<td>-</td>
+<td>-</td>
+<td>Spring Recess</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3/25</td>
+<td>24</td>
+<td>L</td>
+<td>Feeding the world without destroying the planet</td>
+<td><a href="https://www.youtube.com/watch?v=DKQdKmP-H3A">Phalan and Perfecto Discussion</a>; godfray2010food; tilman2014global</td>
+</tr>
+<tr class="even">
+<td>3/27</td>
+<td>25</td>
+<td>L</td>
+<td>Reducing waste along the supply chain and fixing incentives</td>
+<td>west2014leverage; phalan2016can</td>
+</tr>
+<tr class="odd">
+<td>3/27</td>
+<td>9</td>
+<td>B</td>
+<td>Immersive socio-ecological research III (Project Wrap-Up)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>3/29</td>
+<td>-</td>
+<td>_</td>
+<td>César Chávez Day</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>4/1</td>
+<td>26</td>
+<td>L</td>
+<td>Theory and impacts of non-native, introduced, and invasive species</td>
+<td>Shea2002community; strauss2012invading; doherty2016invasive</td>
+</tr>
+<tr class="even">
+<td>4/3</td>
+<td>27</td>
+<td>L</td>
+<td>Contention in eradication and control</td>
+<td>larson2005war; loss2013impact; <a href="https://www.youtube.com/watch?v=GjKNWs93HpI">Kauai’s introduced <em>Psittacula</em> parrots</a></td>
+</tr>
+<tr class="odd">
+<td>4/3</td>
+<td>10</td>
+<td>B</td>
+<td>Immersive socio-ecological research IV (Project Wrap-Up)</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4/5</td>
+<td>28</td>
+<td>L</td>
+<td>The economics of invasions and implications for control</td>
+<td>shogren2000risk; perrings2002biological</td>
+</tr>
+<tr class="odd">
+<td>4/8</td>
+<td>29</td>
+<td>L</td>
+<td>International Conservation Policy: CITES</td>
+<td>ginsberg2002cites; phelps2010boosting</td>
+</tr>
+<tr class="even">
+<td>4/10</td>
+<td>30</td>
+<td>L</td>
+<td>The games that countries play</td>
+<td><a href="https://www.youtube.com/watch?v=OINKJNWtSiE">Montreal Protocol</a>; <a href="https://www.youtube.com/watch?v=bcxL7jN4akw">Lessons from Kyoto</a>; <a href="https://www.youtube.com/watch?v=B11kASPfYxY">Inequality between countries</a>; hannam2017incomplete</td>
+</tr>
+<tr class="odd">
+<td>4/10</td>
+<td>11</td>
+<td>B</td>
+<td>Group research projects I</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4/12</td>
+<td>31</td>
+<td>L</td>
+<td>Non-binding biodiversity agreements</td>
+<td>larigauderie2010intergovernmental; cardinale2012biodiversity; pascual2017valuing</td>
+</tr>
+<tr class="odd">
+<td>4/15</td>
+<td>32</td>
+<td>L</td>
+<td>Conservation challenges in our backyard</td>
+<td>schwartz2006biotic; vandergast2008hotspots; scanlon2012ground</td>
+</tr>
+<tr class="even">
+<td>4/17</td>
+<td>33</td>
+<td>L</td>
+<td>Group research projects II</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>4/17</td>
+<td>12</td>
+<td>B</td>
+<td>Environmental (in)justice in California</td>
+<td>boer1997there; tallis2018california</td>
+</tr>
+<tr class="even">
+<td>4/19</td>
+<td>34</td>
+<td>L</td>
+<td>Conservation solutions in California</td>
+<td>petersen2006community; kroetz2014benefits; johnston2015abundance;</td>
+</tr>
+<tr class="odd">
+<td>4/22</td>
+<td>35</td>
+<td>L</td>
+<td>(Earth Day) Group presentations: I</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4/24</td>
+<td>36</td>
+<td>L</td>
+<td>Group presentations: II</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>4/24</td>
+<td>13</td>
+<td>B</td>
+<td>No lab</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4/26</td>
+<td>37</td>
+<td>L</td>
+<td>Group presentations: III</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>4/29</td>
+<td>38</td>
+<td>L</td>
+<td>Group presentations: IV</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>5/1</td>
+<td>39</td>
+<td>L</td>
+<td>Group presentations: V</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5/1</td>
+<td>-</td>
+<td>B</td>
+<td>No lab</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>5/3</td>
+<td>40</td>
+<td>L</td>
+<td>Group presentations: VI</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5/6</td>
+<td>41</td>
+<td>L</td>
+<td>Group presentations: VII</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>5/8</td>
+<td>42</td>
+<td>L</td>
+<td>Group presentations: VIII</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
