@@ -7,13 +7,11 @@ title: "Course Overview"
 #link-citations: true
 ---
 
-# BIOL 104 PO
+## Nonlinear Dynamics of Coral reefs: Linking Modeling & Empirical Approaches
 
-## Conservation Science: Theories and Solutions
+This is the [course website](https://lmcmanus47.github.io/course_syllabus) for "Nonlinear Dynamics of Coral reefs: Linking Modeling & Empirical Approaches" at the [University of Hawaiʻi at Manoa](https://manoa.hawaii.edu) in the [Hawaiʻi Institute of Marine Biology ](http://www.himb.hawaii.edu). Dr. [Lisa McManus](https://lmcmanus47.github.io) is the instructor.
 
-This is the [course website](https://charlottehchang.github.io/BIOL104PO/) for "Conservation Science: Theories and Solutions" at [Pomona College](https://www.pomona.edu/) in the departments of [Biology](https://www.pomona.edu/academics/departments/biology) and [Environmental Analysis](https://www.pomona.edu/academics/departments/environmental-analysis). Dr. [Charlotte Chang](http://charlottehchang.github.io) is the instructor.
-
-**Spring 2019**
+**Spring 2021**
 
 **Location**: Seaver South Laboratory 227 (Lecture and Labs)
 
