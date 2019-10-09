@@ -9,17 +9,17 @@ title: "Course Overview"
 
 ## Nonlinear Coral Reef Dynamics: Linking Modeling & Empirical Approaches
 
-This is the [course website](https://lmcmanus47.github.io/course_syllabus) for "Nonlinear Coral Reef Dynamics: Linking Modeling & Empirical Approaches" at the [University of Hawaiʻi at Manoa](https://manoa.hawaii.edu) in the [Hawaiʻi Institute of Marine Biology ](http://www.himb.hawaii.edu). Dr. [Lisa McManus](https://lmcmanus47.github.io) is the instructor.
+This is the [course website](https://lmcmanus47.github.io/course_syllabus) for "Nonlinear Coral Reef Dynamics: Linking Modeling & Empirical Approaches" at the [University of Hawaiʻi at Manoa](https://manoa.hawaii.edu). Dr. [Lisa McManus](https://lmcmanus47.github.io) is the instructor.
 
 **Summer II 2021: July 6 - August 13**
 
-**Location**: HIMB (Lecture and Labs)
+**Location**: [Hawaiʻi Institute of Marine Biology ](http://www.himb.hawaii.edu) (Lecture and Labs)
 
 **Schedule**: *Lecture*-TR 9-10:40AM (7/6/21-8/12/21) | *Lab*-R 12:00-5:00PM
 
 **Prerequisites**: 1 year of Calculus
 
-**Readings**: This course will use a combination of the primary literature and the textbook Population Biology: Concepts and Models by Alan Hastings.
+**Readings**: This course will use a combination of primary literature and the textbook Population Biology: Concepts and Models by Alan Hastings.
 
 ## Course description
 
