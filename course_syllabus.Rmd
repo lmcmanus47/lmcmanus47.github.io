@@ -42,19 +42,19 @@ Note that **L** denotes lecture and **B** lab.
 |------|---|------|-----------------------------------|
 | 7/6 | 1 | L    | Introduction: Ecological Modeling | 
 | 7/8 | 2 | L    | Introduction: Coral Reef Dynamics |
-| 7/8 | 2 | B    | Python & Github Bootcamp, Fish & Coral ID + Survey Methods | 
+| 7/8 | 1 | B    | Python & Github Bootcamp, Fish & Coral ID + Survey Methods | 
 | 7/13 | 3 | L    | Single-species Population Dynamics |
 | 7/15 | 4 | L    | Age-structured Models | 
 | 7/15 | 2 | B    | Site 1 Reef Surveys + Data input | 
 | 7/20 | 5 | L    | Competition, Predator-Prey Models |
 | 7/22 | 6 | L    | Harvesting |
-| 7/22 | 7 | B    | Site 2 Reef Surveys + Data input |
-| 7/27 | 3 | L    | Critical transitions & Alternative Stable States | 
-| 7/29 | 9 | L    | Metapopulations & Dispersal |
-| 7/29 | 10| B    | Site 3 Reef Surveys + Data input | 
-| 8/3 | 4 | L    | Network Theory |
-| 8/5 | 11| L    | Infectious Diseases | 
-| 8/5 | 12|  B   | Site 4 Reef Surveys + Data input |
-| 8/10 | 13| L    | Game Theory |
-| 8/12 | 5 | L    | Eco-evolutionary Models |
-| 8/12 | 5 | B    | PRESENTATIONS |
+| 7/22 | 3 | B    | Site 2 Reef Surveys + Data input |
+| 7/27 | 7 | L    | Critical transitions & Alternative Stable States | 
+| 7/29 | 8 | L    | Metapopulations & Dispersal |
+| 7/29 | 4| B    | Site 3 Reef Surveys + Data input | 
+| 8/3 | 9 | L    | Network Theory |
+| 8/5 | 10 | L    | Infectious Diseases | 
+| 8/5 | 5|  B   | Site 4 Reef Surveys + Data input |
+| 8/10 | 11 | L    | Game Theory |
+| 8/12 | 12 | L    | Eco-evolutionary Models |
+| 8/12 | 6 | B    | PRESENTATIONS |
