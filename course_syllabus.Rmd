@@ -40,16 +40,16 @@ Note that **L** denotes lecture and **B** lab.
 
 | Date | # | Type | Topic       |
 |------|---|------|-----------------------------------|
-| 7/6 | 1 | L    | Introduction: Ecological Modeling | 
+| 7/6 | 1 | L    | Introduction: Ecological Modeling, Programming with Jupyter Notebooks | 
 | 7/8 | 2 | L    | Introduction: Coral Reef Dynamics |
 | 7/8 | 1 | B    | Python & Github Bootcamp, Fish & Coral ID + Survey Methods | 
 | 7/13 | 3 | L    | Single-species Population Dynamics |
-| 7/15 | 4 | L    | Age-structured Models | 
+| 7/15 | 4 | L    | Stage-structured Models | 
 | 7/15 | 2 | B    | Site 1 Reef Surveys + Data input | 
 | 7/20 | 5 | L    | Competition, Predator-Prey Models |
 | 7/22 | 6 | L    | Harvesting |
 | 7/22 | 3 | B    | Site 2 Reef Surveys + Data input |
-| 7/27 | 7 | L    | Critical transitions & Alternative Stable States | 
+| 7/27 | 7 | L    | Critical Transitions & Alternative Stable States | 
 | 7/29 | 8 | L    | Metapopulations & Dispersal |
 | 7/29 | 4| B    | Site 3 Reef Surveys + Data input | 
 | 8/3 | 9 | L    | Network Theory |
