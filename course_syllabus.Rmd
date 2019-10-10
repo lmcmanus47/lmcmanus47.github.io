@@ -23,7 +23,7 @@ This is the [course website](https://lmcmanus47.github.io/course_syllabus) for "
 
 ## Course description
 
-In this course, I will introduce you to a broad range of theories and techniques from mathematical ecology, with a particular emphasis on examples from coral reef systems. There will be a programming component using Python that will focus on computational approaches to simulate dynamical systems. We will also conduct reef surveys in Kaneohe Bay in order to link theoretical frameworks with field data. The course will be centered on live-coding activities, pen & paper mathematical analyses (e.g., linear stability analysis & eigenvalues) and collaborative group work. 
+In this course, I will introduce you to a broad range of theories and techniques from mathematical ecology, with a particular emphasis on examples from coral reef systems. There will be a programming component using Python that will focus on computational approaches to simulate dynamical systems. We will also conduct reef surveys in Kaneohe Bay in order to link theoretical frameworks with field data. The course will be centered on live-coding activities, pen & paper mathematical analyses (e.g., linear stability analysis & eigenvalue calculation) and collaborative group work. 
 
 ## Course assessment
 
