@@ -1,24 +1,20 @@
 
 
 ---
-title: "Lisa C. McManus"
+title: "Marine Ecological Theory Lab"
 ---
 
 <br>
-I will be joining the faculty at the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> (University of Hawai'i-Manoa) in Fall 2020. Please get in touch if you're interested in joining my lab! 
+I'm an Assistant Research Professor at the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> (University of Hawai'i-Manoa). Please get in touch if you're interested in joining the lab! 
 
 <center>
 ![](fishies.jpg){
 width=100% }
 <br>
 mcmanusl (at) hawaii.edu <br>
-Assitant Researcher (starting Fall 2020) <br>
+Assitant Research Professor <br>
 Hawai'i Institute of Marine Biology <br>
 University of Hawai'i at Manoa <br>
-
-Postdoctoral Associate <br>
-Department of Ecology, Evolution, and Natural Resources <br>
-Rutgers University <br>
 
 <a href="https://github.com/lmcmanus47/">
 ![](GitHub-Mark-32px.png)
