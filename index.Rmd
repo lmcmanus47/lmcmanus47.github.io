@@ -4,7 +4,7 @@
 title: "Marine Ecological Theory Lab"
 ---
 <br>
-PI: Lisa C. McManus
+**PI: Lisa C. McManus**
 <br>
 I'm an Assistant Research Professor at the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> (University of Hawai'i-Manoa). Please get in touch if you're interested in joining the lab! 
 
@@ -17,9 +17,9 @@ Assitant Research Professor <br>
 Hawai'i Institute of Marine Biology <br>
 University of Hawai'i at Manoa <br>
 
-<a href="https://github.com/lmcmanus47/">
-![](GitHub-Mark-32px.png)
-</a>
+<a href="https://github.com/lmcmanus47/"> ![](logo_Github.png) </a> 
+<a href="https://twitter.com/lc_mcmanus"> ![](logo_Twitter.png) </a> 
+<a href="https://scholar.google.com/citations?user=V3bswmgAAAAJ&hl=en"> ![](logo_GoogleScholar.png){width=6%} </a>
 </center>
 
 
