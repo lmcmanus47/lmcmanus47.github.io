@@ -2,10 +2,11 @@
 #This helps avoid confusion if our working directory is 
 #not our site because of other projects we were 
 #working on at the time. 
-setwd("/Volumes/GoogleDrive/My Drive/Website/lmcmanus47.github.io")
+setwd("~/Projects/Website/lmcmanus47.github.io")
 
 #render your sweet site. 
 rmarkdown::render_site()
+
 
 
 

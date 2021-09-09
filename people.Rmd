@@ -1,0 +1,35 @@
+---
+title: "People"
+---
+
+<span style="font-size:1.3em;"> PI: Lisa C. McManus - <a href="McManus_Lisa_CV.pdf">CV</a> </span> <br>
+<span style="font-size:1.1em;"> mcmanusl (at) hawaii (dot) edu </span> <br>
+<img src="photos/McManus_Lisa_headshot.jpg" style="height: 320px; padding-right: 10px;" align="left"> 
+<div style="text-align: left">  
+I'm a marine ecologist and theoretician working at the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> (University of Hawai'i-Manoa) as an Assistant Research Professor. My research focuses on the ecological and evolutionary drivers of coral reef dynamics, and I'm particuarly interested in the effects of climate change on coral population persistence. I met my first corals in the waters off a small coastal town in the Philippines called Bolinao, where I spent the earliest years of my life. I've since explored reefs all over the world, though I've spent most of my scientific underwater time in the central Philippines and Florida Keys.
+
+I use mathematical and computational approaches to investigate the role of networks on coral adaptive capacity using <a href="https://doi.org/10.1101/2021.02.04.429453">an eco-evolutionary framework that incorporates competition, dispersal and directional selection</a>. I've also conducted work to understand the factors that maintain stability on reefs, including the possibility of alternative stable states, both at <a href="https://doi.org/10.1007/s12080-018-0388-x">a single reef patch</a> and across thousands of reefs in <a href="https://doi.org/10.1111/gcb.14972">the Coral Triangle</a>. Many of my models use larval dispersal estimates derived from ocean circulation models.
+
+I earned my Bachelor's degree from the University of Miami's Rosenstiel School of Marine and Atmospheric Science, and my PhD from the Department of Ecology and Evolutionary Biology at Princeton University through the <a href="https://slevin.princeton.edu/">Levin Lab</a>. I was subsequently a postdoctoral fellow at the 
+<a href="https://pinsky.marine.rutgers.edu/">Pinsky Lab</a> at Rutgers University. <br>
+
+<a href="https://github.com/lmcmanus47/"> ![](logo_Github.png) </a> 
+<a href="https://twitter.com/lc_mcmanus"> ![](logo_Twitter.png) </a> 
+<a href="https://scholar.google.com/citations?user=V3bswmgAAAAJ&hl=en"> ![](logo_GoogleScholar.png){width=6%} </a>
+
+<br>
+<br>
+<span style="font-size:2.2em;"> Graduate Students </span> <br>
+
+<span style="font-size:1.3em;"> Sophia Rahnke </span> <br>
+<span style="font-size:1.1em;"> srahnke (at) hawaii (dot) edu </span> <br>
+
+<br>
+<br>
+<span style="font-size:2.2em;"> Undergraduate Students </span> <br>
+
+<span style="font-size:1.3em;"> Eojin Lee </span> <br>
+<span style="font-size:1.1em;">  </span> <br>
+
+
+</div>

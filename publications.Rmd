@@ -1,0 +1,35 @@
+---
+title: "Publications"
+---
+<div style="text-align: left">  
+<span style="font-size:1.5em;"> 2021 </span>
+<br>
+
+McManus LC, Forrest DL, Tekwa E, Schindler DE, Walsworth TE, Colton MA, Webster MS, Essington
+TE, Palumbi SR, Mumby PJ, and Pinsky ML. (2021). <u>Evolution and connectivity influence the
+persistence and recovery of coral reefs under climate change in the Caribbean, Southwest Pacific,
+and Coral Triangle.</u> Global Change Biology 00:1-15. 10.1111/gcb.15725 
+<a href = "https://doi.org/10.1111/gcb.15725">[link]</a> <br><br>
+
+McManus LC, Tekwa E, Schindler DE, Walsworth TE, Colton MA, Webster MS, Essington TE, Palumbi
+SR, Mumby PJ, Forrest DL, and Pinsky ML. (2021). <u>Evolution reverses the effect of network
+structure on metapopulation persistence.</u> Ecology 102(7), e03381. 10.1002/ecy.3381 
+<a href = "https://doi.org/10.1002/ecy.3381">[link]</a><br><br>
+
+Tekwa EW, McManus LC, Greiner A, Colton MA, Webster MS, and Pinsky ML. (2021). <u>Geometric
+Analysis of Regime Shifts in Coral Reef Communities.</u> Ecosphere 12(1):e03319. 10.1002/ecs2.3319 <a href = "https://doi.org/10.1002/ecs2.3319">[link]</a><br><br>
+
+<span style="font-size:1.5em;"> 2020 </span>
+<br>
+McManus LC, Vasconcelos VV, Levin SA, Thompson DM, Kleypas JA, Castruccio FS, Curchitser EN, Watson JR. (2020). <u>Extreme temperature events will drive coral decline in the Coral Triangle.</u> Global Change Biology 26:2120-2133. 10.1111/gcb.14972 <a href = "https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14972">[link]</a><br><br>
+
+<span style="font-size:1.5em;"> 2019 </span>
+<br>
+McManus LC, Watson JR, Vasconcelos VV and Levin SA. (2019). <u>The stability and recovery of coralalgae systems: the importance of recruitment seasonality and grazing influence.</u> Theoretical Ecology 12:61-72. 10.1007/s12080-018-0388-x
+<a href = "https://doi.org/10.1007/s12080-018-0388-x">[link]</a><br><br>
+
+<span style="font-size:1.5em;"> 2014 </span>
+<br>
+McManus LC, Yurek S, Teare PB, Dolan TE and Serafy JE. (2014). <u>Killifish habitat suitability as a measure of coastal restoration performance: integrating field data, behavioral trials and simulation.</u> Ecological Indicators 44:173-181. <a href = "https://www-sciencedirect-com.eres.library.manoa.hawaii.edu/science/article/pii/S1470160X14001009">[link]</a><br>
+
+</div>

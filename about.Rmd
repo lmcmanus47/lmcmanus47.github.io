@@ -1,14 +1,16 @@
 ---
-title: "About"
+title: "About the P.I."
 ---
+<img src="headshot_diving_combined.jpg" style="height: 1000px; padding-right: 10px;" align="left"> 
 
- 
-<img src="Diving.jpg" alt="diving" style="height: 500px; padding-right: 10px;" align="left"> 
+<div style="text-align: left">  
 
-I'm a marine ecologist and theoretician currently working at the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> (University of Hawai'i-Manoa) as an Assistant Research Professor. My research focuses on the ecological and evolutionary drivers of coral reef dynamics, and I'm particuarly interested in the effects of climate change on coral population persistence. I met my first corals in the waters off a small coastal town in the Philippines called Bolinao, where I spent the earliest years of my life. I've since explored reefs all over the world, though I've spent most of my scientific underwater time in the central Philippines and Florida Keys.
+I'm a marine ecologist and theoretician working at the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> (University of Hawai'i-Manoa) as an Assistant Research Professor. My research focuses on the ecological and evolutionary drivers of coral reef dynamics, and I'm particuarly interested in the effects of climate change on coral population persistence. I met my first corals in the waters off a small coastal town in the Philippines called Bolinao, where I spent the earliest years of my life. I've since explored reefs all over the world, though I've spent most of my scientific underwater time in the central Philippines and Florida Keys.
 
-I'm currently investigating the role of networks on coral adaptive capacity using an eco-evolutionary framework that incorporates competition, dispersal and directional selection. I've also conducted work to understand the factors that maintain stability on reefs, including the possibility of alternative stable states, both at a single reef patch and across thousands of reefs in the Coral Triangle. Many of my models use larval dispersal estimates derived from ocean circulation models, and I'm currently working on a population genetics study of Acroporid corals on the Islands of Cebu and Leyte in the Philippines in order to obtain empirical estimates of coral dispersal distance.
+I use mathematical and computational approaches to investigate the role of networks on coral adaptive capacity using <a href="https://doi.org/10.1101/2021.02.04.429453">an eco-evolutionary framework that incorporates competition, dispersal and directional selection</a>. I've also conducted work to understand the factors that maintain stability on reefs, including the possibility of alternative stable states, both at <a href="https://doi.org/10.1007/s12080-018-0388-x">a single reef patch</a> and across thousands of reefs in <a href="https://doi.org/10.1111/gcb.14972">the Coral Triangle</a>. Many of my models use larval dispersal estimates derived from ocean circulation models.
 
-I earned my Bachelor's degree from the University of Miami's Rosenstiel School of Marine and Atmospheric Science, and my PhD from the Department of Ecology and Evolutionary Biology at Princeton University through the <a href="https://slevin.princeton.edu/">Levin Lab</a>.
+I earned my Bachelor's degree from the University of Miami's Rosenstiel School of Marine and Atmospheric Science, and my PhD from the Department of Ecology and Evolutionary Biology at Princeton University through the <a href="https://slevin.princeton.edu/">Levin Lab</a>. I was subsequently a postdoctoral fellow at the <a href="https://pinsky.marine.rutgers.edu/>Pinsky Lab</a> at Rutgers University. 
 
 Photo credit: Kirk Kilfoyle
+
+</div>

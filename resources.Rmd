@@ -1,0 +1,13 @@
+---
+title: "Resources"
+---
+<div style="text-align: left">  
+<span style="font-size:1.5em;"> Marine Biology Graduate Program </span>
+<br>
+<span style="font-size:1.5em;"> 2020 </span>
+<br>
+<span style="font-size:1.5em;"> Outreach Materials </span>
+<br>
+<a href="outreach.html"> Coral-algal competition agent-based modeling project in NetLogo</a> 
+
+</div>
