@@ -4,7 +4,7 @@ title: "Marine Ecological Theory Lab"
 <span style="font-size:1.5em;"> PI: Lisa C. McManus</span>
 <br>
 <br>
-Welcome to the Marine Ecological Theory Lab website! We are part of the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> at the <a href="https://manoa.hawaii.edu/"> University of Hawai'i-Manoa </a>. Our research uses theoretical approaches to elucidate the population and community dynamics of marine systems. We are especially focused on coral reefs and their potential responses to climate change.
+Welcome to the Marine Ecological Theory Lab website! We are part of the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> at the <a href="https://manoa.hawaii.edu/"> University of Hawai'i-Manoa</a>. Our research uses theoretical approaches to elucidate the population and community dynamics of marine systems. We are especially focused on coral reefs and understanding their potential responses to climate change.
 <br>
 <br>
 <center>
