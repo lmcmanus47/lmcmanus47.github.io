@@ -1,7 +1,7 @@
 name: "lisa-website"
 output_dir: "."
 navbar:
-  title: "METL"
+  title: "MET-Lab"
   left:
     - text: "Home"
       href: index.html
