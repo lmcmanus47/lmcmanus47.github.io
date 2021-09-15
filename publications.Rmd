@@ -2,10 +2,12 @@
 title: "Publications"
 ---
 <div style="text-align: left">  
+<span style="font-size:1em;"> * = Joint first author </span> <br> <br>
+
 <span style="font-size:1.5em;"> 2021 </span>
 <br>
 
-McManus LC, Forrest DL, Tekwa E, Schindler DE, Walsworth TE, Colton MA, Webster MS, Essington
+McManus LC\*, Forrest DL\*, Tekwa E, Schindler DE, Walsworth TE, Colton MA, Webster MS, Essington
 TE, Palumbi SR, Mumby PJ, and Pinsky ML. (2021). <u>Evolution and connectivity influence the
 persistence and recovery of coral reefs under climate change in the Caribbean, Southwest Pacific,
 and Coral Triangle.</u> Global Change Biology 00:1-15. 10.1111/gcb.15725 
