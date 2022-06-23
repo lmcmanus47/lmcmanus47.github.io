@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -14,22 +13,36 @@
 
 <title>Outreach Materials</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -42,32 +55,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -78,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -98,40 +83,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +120,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +132,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -182,10 +143,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,7 +171,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -233,6 +206,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -263,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -298,7 +272,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -307,21 +281,36 @@ $(document).ready(function () {
 </div>
 
 
-<div id="new-brunswick-high-school-agent-based-modeling-project" class="section level3">
+<div id="new-brunswick-high-school-agent-based-modeling-project"
+class="section level3">
 <h3>New Brunswick High School agent-based modeling project</h3>
-<p>During the 2018 and 2019 school years, Dr. McManus worked with the <a href="http://hs.nbpschools.net/"> New Brunswick High School </a> Science, Technology, Engineering and Mathematics Club </a> on an agent-based modeling project based the coral-algal competition. We use the NetLogo programming language through <a href="https://netlogoweb.org"> NetLogo Web</a>. Below are some of the materials used during this informal course and project. <br></p>
+<p>During the 2018 and 2019 school years, Dr. McManus worked with the
+<a href="http://hs.nbpschools.net/"> New Brunswick High School </a>
+Science, Technology, Engineering and Mathematics Club </a> on an
+agent-based modeling project based the coral-algal competition. We use
+the NetLogo programming language through
+<a href="https://netlogoweb.org"> NetLogo Web</a>. Below are some of the
+materials used during this informal course and project. <br></p>
 <p><img src="netlogo.jpg" alt="netlogo" style="height: 400px; padding-right: 10px;" align="left"></p>
 <div id="presentation-pdfs" class="section level4">
 <h4>Presentation PDFs</h4>
-<p><a href="./NBHS/Lesson1.pdf"> Lesson 1 </a> <br> <a href="./NBHS/Lesson2.pdf"> Lesson 2 </a> <br> <a href="./NBHS/Lesson3.pdf"> Lesson 3 </a> <br> <a href="./NBHS/Lesson4.pdf"> Lesson 4 </a> <br> <a href="./NBHS/Lesson5.pdf"> Lesson 5 </a> <br></p>
+<p><a href="./NBHS/Lesson1.pdf"> Lesson 1 </a> <br>
+<a href="./NBHS/Lesson2.pdf"> Lesson 2 </a> <br>
+<a href="./NBHS/Lesson3.pdf"> Lesson 3 </a> <br>
+<a href="./NBHS/Lesson4.pdf"> Lesson 4 </a> <br>
+<a href="./NBHS/Lesson5.pdf"> Lesson 5 </a> <br></p>
 </div>
 <div id="netlogo-project-files-.nlogo" class="section level4">
 <h4>NetLogo project files (.nlogo)</h4>
-<p><a href="./NBHS/coral_algaeV1.nlogo" download> Coral-Algae Version 1 </a> <br> <a href="./NBHS/coral_algaeV2.nlogo" download> Coral-Algae Version 2 </a> <br></p>
+<p><a href="./NBHS/coral_algaeV1.nlogo" download> Coral-Algae Version 1
+</a> <br> <a href="./NBHS/coral_algaeV2.nlogo" download> Coral-Algae
+Version 2 </a> <br></p>
 </div>
-<div id="tutorial-pdfs-to-accompany-the-project-files" class="section level4">
+<div id="tutorial-pdfs-to-accompany-the-project-files"
+class="section level4">
 <h4>Tutorial PDFs to accompany the project files</h4>
-<p><a href="./NBHS/coral_algaeV1.pdf"> Coral-Algae Version 1 </a> <br> <a href="./NBHS/coral_algaeV2.pdf"> Coral-Algae Version 2 </a> <br></p>
+<p><a href="./NBHS/coral_algaeV1.pdf"> Coral-Algae Version 1 </a> <br>
+<a href="./NBHS/coral_algaeV2.pdf"> Coral-Algae Version 2 </a> <br></p>
 </div>
 </div>
 
@@ -334,7 +323,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -352,7 +341,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

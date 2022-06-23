@@ -2,9 +2,9 @@
 title: "People"
 ---
 
-<span style="font-size:1.3em;"> PI: Lisa C. McManus - <a href="McManus_Lisa_CV.pdf">CV</a> </span> <br>
+<span style="font-size:1.3em;"> PI: Lisa C. McManus, Ph.D. - <a href="McManus_Lisa_CV.pdf">CV</a> </span> <br>
 <span style="font-size:1.1em;"> mcmanusl (at) hawaii (dot) edu </span> <br>
-<img src="photos/McManus_Lisa_headshot.jpg" style="height: 320px; padding-right: 10px;" align="left"> 
+<img src="photos/McManus_Lisa_headshot.jpg" style="height: 290px; padding-right: 10px;" align="left"> 
 <div style="text-align: left">  
 I'm a marine ecologist and theoretician working at the <a href="http://www.himb.hawaii.edu/"> Hawai'i Institute of Marine Biology </a> (University of Hawai'i-Manoa) as an Assistant Research Professor. My research focuses on the ecological and evolutionary drivers of coral reef dynamics, and I'm particuarly interested in the effects of climate change on coral population persistence. I met my first corals in the waters off a small coastal town in the Philippines called Bolinao, where I spent the earliest years of my life. I've since explored reefs all over the world, though I've spent most of my scientific underwater time in the central Philippines and Florida Keys.
 
@@ -21,11 +21,29 @@ I earned my Bachelor's degree from the University of Miami's Rosenstiel School o
 <br>
 <span style="font-size:2.2em;"> Graduate Students </span> <br>
 
+<span style="font-size:1.3em;"> Annie Innes-Gold </span> <br>
+<span style="font-size:1.1em;"> ainnesgo (at) hawaii (dot) edu </span> <br>
+<img src="photos/annie.jpg" style="height: 300px; padding-right: 10px;" align="left"> 
+
+I’m a Ph.D. student interested in coral reef ecology and ecosystem-based fisheries management, and hope to use my background in interdisciplinary research to explore questions relating to environmental and fisheries sustainability. Currently, I’m using ecosystem modeling to study the interactive effects of management strategy and climate change on fish populations and fisheries harvest.
+
+<br>
+<br>
+<br>
+
+<a href="https://scholar.google.com/citations?hl=en&oi=ao&user=CdMYGJ0AAAAJ&inst=18159185193906785217"> ![](logo_GoogleScholar.png){width=6%} </a>
+
+<br>
+<br>
+
+
+
 <span style="font-size:1.3em;"> Sophia Rahnke </span> <br>
 <span style="font-size:1.1em;"> srahnke (at) hawaii (dot) edu </span> <br>
 <img src="photos/Sophia3.jpg" style="height: 320px; padding-right: 10px;" align="left"> 
 
 I'm a Master's student broadly interested in the biology, ecology, and conservation of coral reef ecosystems. I'm particularly interested in studying questions at the intersection of biology and policy, and hope that my work will connect these components to achieve conservation and sustainability goals. My research will use modeling as a tool to understand coral reef fisheries as social-ecological systems and assess the effectiveness of different forms of management in Hawaiʻi under predicted climate change scenarios. 
+
 
 <br>
 <br>
@@ -39,16 +57,9 @@ I'm a Master's student broadly interested in the biology, ecology, and conservat
 <span style="font-size:2.2em;"> Undergraduate Students </span> <br>
 
 <span style="font-size:1.3em;"> Eojin Lee </span> <br>
+<img src="photos/Eojin2.jpg" style="height: 280px; padding-right: 10px;" align="left"> 
 Eojin is a sophomore at Columbia University. She is working on a project that seeks to compare the potential for species adaptive capacity and diversity maintentence among large marine ecosystems. <br> 
 
-<span style="font-size:1.3em;"> Miya Khoo </span> <br>
-Miya is a sophomore at the University of Chicago. She is working on a project that aims to quantify the impact of management actions and harvesting on herbivorous reef fishes.
-<br>
-<br>
-
-<span style="font-size:2.2em;"> High School Students </span> <br>
-
-<span style="font-size:1.3em;"> Katherine Lew </span> <br>
 <br> 
 
 

@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
@@ -14,22 +13,36 @@
 
 <title>Research</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -42,32 +55,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="style.css" type="text/css" />
 
@@ -78,10 +67,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -98,40 +83,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +120,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +132,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -182,10 +143,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,7 +171,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -233,6 +206,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -263,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -298,7 +272,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -314,20 +288,64 @@ $(document).ready(function () {
 <p><br></p>
 <img src="AdaptivePotential.jpg" alt="Adaptive Potential" style="height: 300px; padding-left: 10px;" align="right">
 <div style="text-align: left">
-<h3 id="eco-evolutionary-dynamics-on-networks">Eco-evolutionary dynamics on networks</h3>
-<p>The importance of ecological and evolutionary processes in population persistence has been well-explored in marine and terrestrial systems, yet few studies have considered the effects of both components simultaneously. In this project, we are quantifying the contribution of competition, dispersal, and directional selection on the potential for populations to adapt and persist under increasing thermal stress. <br></p>
-<p>Relevant work: <a href = "https://doi.org/10.1002/ecy.3381">McManus et al. (2021) Ecology</a></p>
+<div id="eco-evolutionary-dynamics-on-networks" class="section level3">
+<h3>Eco-evolutionary dynamics on networks</h3>
+<p>The importance of ecological and evolutionary processes in population
+persistence has been well-explored in marine and terrestrial systems,
+yet few studies have considered the effects of both components
+simultaneously. In this project, we are quantifying the contribution of
+competition, dispersal, and directional selection on the potential for
+populations to adapt and persist under increasing thermal stress.
+<br></p>
+<p>Relevant work: <a href = "https://doi.org/10.1002/ecy.3381">McManus
+et al. (2021) Ecology</a></p>
 <p><br> <br> <br> <br></p>
-<h3 id="adaptive-capacity-of-coral-populations">Adaptive capacity of coral populations</h3>
+</div>
+<div id="adaptive-capacity-of-coral-populations" class="section level3">
+<h3>Adaptive capacity of coral populations</h3>
 <p><img src="photos/GCB_2021.png" alt="Minimum Coral Cover" style="height: 260px; padding-right: 0px; " align="left"><br />
-<br> Quantifying the adaptive capacity of populations responding to climate change is critical to promoting ecosystem resilience. However, adaptation comprises both evolutionary (e.g. evolutionary rescue, genetic swamping) and ecological (e.g. dispersal, competition) components that are linked through feedback loops. This project aims to disentangle these eco-evolutionary processes to assess the impacts of climate change on metapopulations and metacommunities.</p>
-<p>Relevant work: <br> <a href = "https://doi.org/10.1111/gcb.15725">McManus et al. (2021) Global Change Biology</a> <br> <a href = "https://doi.org/10.1111/gcb.14972">McManus et al. (2020) Global Change Biology</a> <br></p>
+<br> Quantifying the adaptive capacity of populations responding to
+climate change is critical to promoting ecosystem resilience. However,
+adaptation comprises both evolutionary (e.g. evolutionary rescue,
+genetic swamping) and ecological (e.g. dispersal, competition)
+components that are linked through feedback loops. This project aims to
+disentangle these eco-evolutionary processes to assess the impacts of
+climate change on metapopulations and metacommunities.</p>
+<p>Relevant work: <br>
+<a href = "https://doi.org/10.1111/gcb.15725">McManus et al. (2021)
+Global Change Biology</a> <br>
+<a href = "https://doi.org/10.1111/gcb.14972">McManus et al. (2020)
+Global Change Biology</a> <br></p>
 <p><br> <br></p>
-<h3 id="spatial-management-for-evolving-coral-populations">Spatial management for evolving coral populations</h3>
+</div>
+<div id="spatial-management-for-evolving-coral-populations"
+class="section level3">
+<h3>Spatial management for evolving coral populations</h3>
 <p><img src="photos/conservation_strategies.png" alt="Minimum Coral Cover" style="height: 330px; padding-right: 0px; " align="left"><br><br />
-<br> How should we conserve evolving populations at the regional scale? In this project, we are exploring the efficacy of different spatial management strategies, including approaches that target “refugia” (typically cooler sites in the network) and those that target potential sources of warm-adapted larvae (that are generally more vulnerable to the effects of climate change). <br> <br> <br></p>
-<h3 id="social-ecological-systems">Social-ecological systems</h3>
-<p>Coral reefs around the world continue to be negatively impacted by anthropogenic stressors across multiple spatial scales. The effective management of these systems requires the ability to assess the impacts of potential human interventions, which in turn requires an understanding of historical ecological dynamics to serve as a baseline for comparison. One approach that can support both the reconstruction of historical dynamics and assess the impacts of future management scenariosis to develop a dynamical systems model that is parameterized and constrained by historical and contemporary data from diverse sources such as peer-reviewed literature, gray literature and historical accounts. To that end, we are working with colleagues at the <a href="https://heeianerr.org/about-us/">He’eia NERR</a> to develop social-ecological systems models that can assess the impacts of indigenous and contemporary fisheries managment in Hawai’i.</p>
+<br> How should we conserve evolving populations at the regional scale?
+In this project, we are exploring the efficacy of different spatial
+management strategies, including approaches that target “refugia”
+(typically cooler sites in the network) and those that target potential
+sources of warm-adapted larvae (that are generally more vulnerable to
+the effects of climate change). <br> <br> <br></p>
+</div>
+<div id="social-ecological-systems" class="section level3">
+<h3>Social-ecological systems</h3>
+<p>Coral reefs around the world continue to be negatively impacted by
+anthropogenic stressors across multiple spatial scales. The effective
+management of these systems requires the ability to assess the impacts
+of potential human interventions, which in turn requires an
+understanding of historical ecological dynamics to serve as a baseline
+for comparison. One approach that can support both the reconstruction of
+historical dynamics and assess the impacts of future management
+scenariosis to develop a dynamical systems model that is parameterized
+and constrained by historical and contemporary data from diverse sources
+such as peer-reviewed literature, gray literature and historical
+accounts. To that end, we are working with colleagues at the
+<a href="https://heeianerr.org/about-us/">He’eia NERR</a> to develop
+social-ecological systems models that can assess the impacts of
+indigenous and contemporary fisheries managment in Hawai’i.</p>
+</div>
 </div>
 <p><br></p>
 
@@ -340,7 +358,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -358,7 +376,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
