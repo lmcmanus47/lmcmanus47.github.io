@@ -2,16 +2,15 @@
 title: "Teaching"
 ---
 <div style="text-align: left">  
-<span style="font-size:1.5em;"> MBIO 740 - Mathematical Ecology of Marine Systems</span>
- (Official course number pending)
+<span style="font-size:1.5em;"> MBIO 610 - Mathematical Ecology of Marine Systems</span>
 <br>
-This 3-week intesive course will be offered annually beginning Fall 2021.
-<br>
-
-**Schedule:** This is an intensive, 12-session course with a hybrid (i.e., partially in-person and partially online) schedule. 
+This 3-week intensive course will next be offered in January 2023.
 <br>
 
-**Description:** This course will cover the use of mathematical approaches to gain a deeper understanding of ecological dynamics. Students will be introduced to a broad range of theories and techniques from mathematical ecology with an emphasis on marine systems. Topics will include single-species populations, community ecology, spatial patterns and population genetics. Students will learn to interpret equations and figures in the theoretical ecology literature, develop critical thinking skills with regards to model assumptions and level of detail, construct their own simple models, and apply analytical and computational techniques to make predictions regarding system behavior. This course will be centered on 'pen and paper' mathematical analyses, coding activities and collaborative group work. There will be a programming component that will introduce computational approaches to simulate dynamical systems using Python. Students will be encouraged to use data collected from their own research or from other courses in their final modeling projects.
+**Schedule:** This is an intensive, 12-session course with a hybrid schedule (i.e., partially in-person and partially online). 
+<br>
+
+**Description:** This course introduces a broad range of theories and techniques from mathematical ecology with an emphasis on marine systems. Students will learn to assess model assumptions, construct simple models, and apply analytical methods to describe system behavior. The course contains a combination of lectures, computer labs, and student-led primary literature discussions. Topics covered include density-independent vs. density-dependent population growth, stage-structured populations, competition, predation, metapopulations, harvesting, infectious disease, and ecological regime shifts. The course will culminate with students conducting a final ecological modeling project of their own design.
 <br>
 
 </div>
