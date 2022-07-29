@@ -13,7 +13,7 @@ navbar:
       href: teaching.html
     - text: "People"
       href: people.html
-    - text: "Join Us"
+    - text: "Join Us!"
       href: join.html
 output:
   html_document:
