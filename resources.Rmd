@@ -1,7 +1,10 @@
 ---
 title: "Resources"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 ---
-
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FSXD1R74HZ"></script>

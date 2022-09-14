@@ -1,16 +1,10 @@
 ---
 title: "People"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 ---
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FSXD1R74HZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-FSXD1R74HZ');
-</script>
 
 
 <span style="font-size:1.3em;"> PI: Lisa C. McManus, Ph.D. - <a href="McManus_Lisa_CV.pdf">CV</a> </span> <br>
