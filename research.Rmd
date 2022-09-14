@@ -1,6 +1,17 @@
 ---
 title: "Research"
 ---
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FSXD1R74HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FSXD1R74HZ');
+</script>
 These are some of the projects we are currently working on.
 
 <center>

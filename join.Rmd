@@ -2,6 +2,17 @@
 title: "Applying to the Marine Ecological Theory Lab"
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FSXD1R74HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FSXD1R74HZ');
+</script>
+
 As an advisor, I seek to promote scientific rigor, self-confidence and collegiality. As my mentee, I will support you in your scientific research and career goals to help you thrive as an independent scientist. Fostering a respectful and collaborative atmosphere in my lab is of the utmost importance to me, and I am excited about working with people that hold these same values!
   
 <div style="text-align: left">  

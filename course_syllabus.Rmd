@@ -7,6 +7,17 @@ title: "Course Overview"
 #link-citations: true
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FSXD1R74HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FSXD1R74HZ');
+</script>
+
 ## Nonlinear Coral Reef Dynamics: Linking Modeling & Empirical Approaches
 
 This is the [course website](https://lmcmanus47.github.io/course_syllabus) for "Nonlinear Coral Reef Dynamics: Linking Modeling & Empirical Approaches" at the [University of Hawaiʻi at Manoa](https://manoa.hawaii.edu). Dr. [Lisa McManus](https://lmcmanus47.github.io) is the instructor.

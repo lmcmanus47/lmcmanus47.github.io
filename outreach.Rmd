@@ -2,6 +2,17 @@
 title: "Outreach Materials"
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FSXD1R74HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FSXD1R74HZ');
+</script>
+
 ### New Brunswick High School agent-based modeling project  
 During the 2018 and 2019 school years, Dr. McManus worked with the <a href="http://hs.nbpschools.net/"> New Brunswick High School </a> Science, Technology, Engineering and Mathematics Club </a> on an agent-based modeling project based the coral-algal competition. We use the NetLogo programming language through <a href="https://netlogoweb.org"> NetLogo Web</a>. Below are some of the materials used during this informal course and project. <br>
 

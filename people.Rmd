@@ -2,6 +2,17 @@
 title: "People"
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FSXD1R74HZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FSXD1R74HZ');
+</script>
+
+
 <span style="font-size:1.3em;"> PI: Lisa C. McManus, Ph.D. - <a href="McManus_Lisa_CV.pdf">CV</a> </span> <br>
 <span style="font-size:1.1em;"> mcmanusl (at) hawaii (dot) edu </span> <br>
 <img src="photos/McManus_Lisa_headshot.jpg" style="height: 290px; padding-right: 10px;" align="left"> 
@@ -23,10 +34,11 @@ I earned my Bachelor's degree from the University of Miami's Rosenstiel School o
 
 <span style="font-size:1.3em;"> Annie Innes-Gold </span> <br>
 <span style="font-size:1.1em;"> ainnesgo (at) hawaii (dot) edu </span> <br>
-<img src="photos/annie.jpg" style="height: 300px; padding-right: 10px;" align="left"> 
+<img src="photos/Annie2.png" style="height: 300px; padding-right: 10px;" align="left"> 
 
 I’m a Ph.D. student interested in coral reef ecology and ecosystem-based fisheries management, and hope to use my background in interdisciplinary research to explore questions relating to environmental and fisheries sustainability. Currently, I’m using ecosystem modeling to study the interactive effects of management strategy and climate change on fish populations and fisheries harvest.
 
+<br>
 <br>
 <br>
 <br>
