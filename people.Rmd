@@ -62,7 +62,7 @@ I'm a Ph.D. student broadly interested in the biology, ecology, and conservation
 
 
 <span style="font-size:1.3em;"> Jake Snyder </span> <br>
-<span style="font-size:1.1em;"> jtsynder (at) hawaii (dot) edu </span> <br>
+<span style="font-size:1.1em;"> jtsnyder (at) hawaii (dot) edu </span> <br>
 <img src="photos/Jake_headshot.png" style="height: 300px; padding-right: 10px;" align="left"> 
 
 Hi! My name is Jake Snyder (he/they), and I am a 1st-year Ph.D. student researching the impact of sedimentation on the interactions between fish herbivory, algal cover, and coral growth. I was raised in Hummelstown, Pennsylvania, and I earned my Bachelor of Science in Biology with minors in art and marine science from The Pennsylvania State University in Spring 2023. During my undergraduate career, I conducted research in Dr. Mónica Medina’s lab at Penn State and completed an internship with NOAA PIFSC through the Ernest F. Hollings Scholarship. Outside of my research, I am passionate about art and LGBTQIA+ advocacy.
