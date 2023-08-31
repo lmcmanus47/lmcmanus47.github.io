@@ -48,7 +48,7 @@ I’m a Ph.D. student interested in coral reef ecology and ecosystem-based fishe
 <span style="font-size:1.1em;"> srahnke (at) hawaii (dot) edu </span> <br>
 <img src="photos/Sophia3.jpg" style="height: 320px; padding-right: 10px;" align="left"> 
 
-I'm a Master's student broadly interested in the biology, ecology, and conservation of coral reef ecosystems. I'm particularly interested in studying questions at the intersection of biology and policy, and hope that my work will connect these components to achieve conservation and sustainability goals. My research will use modeling as a tool to understand coral reef fisheries as social-ecological systems and assess the effectiveness of different forms of management in Hawaiʻi under predicted climate change scenarios. 
+I'm a Ph.D. student broadly interested in the biology, ecology, and conservation of coral reef ecosystems. I'm particularly interested in studying questions at the intersection of biology and policy, and hope that my work will connect these components to achieve conservation and sustainability goals. My research will use modeling as a tool to understand coral reef fisheries as social-ecological systems and assess the effectiveness of different forms of management in Hawaiʻi under predicted climate change scenarios. 
 
 
 <br>
