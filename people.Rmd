@@ -116,9 +116,23 @@ Hi! My name is Jake Snyder (he/they), and I am a 1st-year Ph.D. student research
 
 <span style="font-size:1.3em;"> Eojin Lee </span> <br>
 <img src="photos/Eojin2.jpg" style="height: 280px; padding-right: 10px;" align="left"> 
-Eojin is a senior at Columbia University. She is working on a project that seeks to compare the potential for species adaptive capacity and diversity maintentence among large marine ecosystems. <br> 
+I am a senior at Columbia University studying Applied Mathematics. My project seeks to compare the potential for species adaptive capacity and diversity maintentence among large marine ecosystems. <br> 
 
-<br> 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<span style="font-size:1.3em;"> Joshua Brett Pablo </span> <br>
+<img src="photos/Josh.jpg" style="height: 280px; padding-right: 10px;" align="left"> 
+I am a senior at The University of Hawai‘i Mānoa, majoring in Natural Resource Environmental Management and specializing in coastal management. I am particularly interested in aquaculture in Hawai‘i and developing strategies incorporating both traditional Hawaiian and modern aquaculture practices that promote efficiency and sustainability.<br> 
 
 
 <br>
