@@ -1,0 +1,46 @@
+---
+title: "Opportunities at the Marine Ecological Theory Lab"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+---
+
+<div style="text-align: left">  
+<span style="font-size:1.7em;"> Two-year Postdoctoral Researcher position available!</span>
+
+<b> Applications are due by August 14th, 2024, 11:59 pm Hawaiʻi Standard Time. </b>
+
+<div style="text-align: left">  
+<span style="font-size:1.5em;"> Eco-evolutionary modeling to inform coral reef management within National Marine Sanctuaries  </span>
+
+<div style="text-align: left">  
+<span style="font-size:1.2em;"> PROJECT DESCRIPTION </span>
+
+Coral reefs face unprecedented challenges due to climate change, necessitating a deeper understanding of their adaptive potential. This project aims to develop eco-evolutionary models to advance our understanding of coral reef responses to environmental stressors and evaluate management strategies in the Pacific Islands Region’s National Marine Sanctuaries, both existing and proposed. The project will investigate key adaptation mechanisms, including genetic diversity, heritability, dispersal and population growth rates of different coral species. We will work closely with stakeholders to determine a set of management strategies to be tested with the model, such as assisted gene flow, coral restoration and wastewater management. This research will provide critical insights for predicting reef futures and evaluating management interventions in a changing climate. 
+
+
+<div style="text-align: left">  
+<span style="font-size:1.2em;"> SUMMARY OF DUTIES/SKILLSETS </span>
+
+The successful applicant will serve as a Postdoctoral Researcher within the Marine Ecology and Theory Lab (PI Lisa McManus) at the Hawaiʻi Institute of Marine Biology (HIMB), University of Hawaiʻi at Mānoa. The successful candidate will contribute to the Office of National Marine Sanctuaries Pacific Islands Region (ONMS)/HIMB Pacific Remote Sites Partnership project. They will conduct eco-evolutionary modeling studies to inform coral reef management in National Marine Sanctuaries. Specifically, the successful candidate will develop and implement models simulating coral dynamics under various scenarios, perform sensitivity analyses, and manage data collection and analysis. Working with the PI and collaborators, they will adapt models for specific Pacific Islands reef systems, interpret results to link human actions to reef outcomes, and disseminate findings through presentations and publications. The ideal candidate will have a Ph.D., strong modeling and data analysis skills, and expertise in coral reef ecology and climate change impacts. Excellent communication skills are essential. This role offers an opportunity to contribute to coral reef conservation while advancing modeling skills and conducting impactful research. Preferred start date is September 2024 or soon after. Expected salary is approximately $65K USD per year.
+
+
+<b>Required qualifications:</b>
+
+* Ph.D. in Ecology, Marine Biology, Oceanography, Engineering, Mathematics, Physics, Computer Science, or related field
+* Experience in ecological or eco-evolutionary modeling, including development, implementation and analysis
+Programming experience in languages commonly used for ecological modeling (e.g., Python, Julia, R, or similar)
+* Strong publication record demonstrating novel, independent research and project completion
+* Excellent organizational and problem-solving skills
+* Strong interpersonal and communication skills
+* Ability to work both independently and collaboratively
+
+<b>Desirable qualifications:</b>
+
+* Working knowledge of climate change impacts on marine ecosystems, particularly coral reefs
+* Demonstrated aptitude for applying advanced quantitative and computational tools in a research setting
+* Experience with implementing ecological models in marine contexts
+
+Applicants must apply online through the Careers page at https://www.rcuh.com/work/careers/ and submit their application by the closing date (Aug. 14th, 2024) to be considered for this recruitment. Search for Job ID # 224466.
+
