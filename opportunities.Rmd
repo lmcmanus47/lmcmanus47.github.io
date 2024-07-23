@@ -23,14 +23,14 @@ Coral reefs face unprecedented challenges due to climate change, necessitating a
 <div style="text-align: left">  
 <span style="font-size:1.2em;"> SUMMARY OF DUTIES/SKILLSETS </span>
 
-The successful applicant will serve as a Postdoctoral Researcher within the Marine Ecology and Theory Lab (PI Lisa McManus) at the Hawaiʻi Institute of Marine Biology (HIMB), University of Hawaiʻi at Mānoa. The successful candidate will contribute to the Office of National Marine Sanctuaries Pacific Islands Region (ONMS)/HIMB Pacific Remote Sites Partnership project. They will conduct eco-evolutionary modeling studies to inform coral reef management in National Marine Sanctuaries. Specifically, the successful candidate will develop and implement models simulating coral dynamics under various scenarios, perform sensitivity analyses, and manage data collection and analysis. Working with the PI and collaborators, they will adapt models for specific Pacific Islands reef systems, interpret results to link human actions to reef outcomes, and disseminate findings through presentations and publications. The ideal candidate will have a Ph.D., strong modeling and data analysis skills, and expertise in coral reef ecology and climate change impacts. Excellent communication skills are essential. This role offers an opportunity to contribute to coral reef conservation while advancing modeling skills and conducting impactful research. Preferred start date is September 2024 or soon after. Expected salary is approximately $65K USD per year.
+The successful applicant will serve as a Postdoctoral Researcher within the Marine Ecology and Theory Lab (PI Lisa McManus) at the Hawaiʻi Institute of Marine Biology, University of Hawaiʻi at Mānoa. The successful candidate will contribute to the Office of National Marine Sanctuaries Pacific Islands Region (ONMS)/HIMB Pacific Remote Sites Partnership project. They will conduct eco-evolutionary modeling studies to inform coral reef management in National Marine Sanctuaries. Specifically, the successful candidate will develop and implement models simulating coral dynamics under various scenarios, perform sensitivity analyses, and manage data collection and analysis. Working with the PI and collaborators, they will adapt models for specific Pacific Islands reef systems, interpret results to link human actions to reef outcomes, and disseminate findings through presentations and publications. The ideal candidate will have a Ph.D., strong modeling and data analysis skills, and expertise in ecological modeling. Excellent communication skills are essential. This role offers an opportunity to contribute to coral reef conservation while advancing modeling skills and conducting impactful research. Preferred start date is September 2024 or soon after. Expected salary is approximately $65K USD per year.
 
 
 <b>Required qualifications:</b>
 
 * Ph.D. in Ecology, Marine Biology, Oceanography, Engineering, Mathematics, Physics, Computer Science, or related field
 * Experience in ecological or eco-evolutionary modeling, including development, implementation and analysis
-Programming experience in languages commonly used for ecological modeling (e.g., Python, Julia, R, or similar)
+* Programming experience in languages commonly used for ecological modeling (e.g., Python, Julia, R, or similar)
 * Strong publication record demonstrating novel, independent research and project completion
 * Excellent organizational and problem-solving skills
 * Strong interpersonal and communication skills
@@ -38,7 +38,7 @@ Programming experience in languages commonly used for ecological modeling (e.g.,
 
 <b>Desirable qualifications:</b>
 
-* Working knowledge of climate change impacts on marine ecosystems, particularly coral reefs
+* Working knowledge of climate change impacts on marine ecosystems, especially coral reefs
 * Demonstrated aptitude for applying advanced quantitative and computational tools in a research setting
 * Experience with implementing ecological models in marine contexts
 
