@@ -146,3 +146,6 @@ Eojin was an undergraduate researcher in the lab from Fall 2021 to Spring 2024 a
 </div>
 
 
+<center>
+<img src="photos/MetLabB_color.png" style="height: 100px; padding-right: 0px;" align="center"> 
+</center>

@@ -55,3 +55,6 @@ Coral reefs around the world continue to be negatively impacted by anthropogenic
 </div>
 <br>
 
+<center>
+<img src="photos/MetLabB_color.png" style="height: 100px; padding-right: 0px;" align="center"> 
+</center>

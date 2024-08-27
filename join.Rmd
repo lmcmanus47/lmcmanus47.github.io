@@ -41,3 +41,7 @@ I am actively looking for postdocs so please get in touch if you think our resea
 
 
 </div>
+
+<center>
+<img src="photos/MetLabB_color.png" style="height: 100px; padding-right: 0px;" align="center"> 
+</center>

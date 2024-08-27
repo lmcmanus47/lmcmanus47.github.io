@@ -19,3 +19,7 @@ This 3-week intensive course will next be offered in January 2025.
 <br>
 
 </div>
+
+<center>
+<img src="photos/MetLabB_color.png" style="height: 100px; padding-right: 0px;" align="center"> 
+</center>
