@@ -9,7 +9,7 @@ output:
 <div style="text-align: left">  
 <span style="font-size:1.5em;"> MBIO 610 - Mathematical Ecology of Marine Systems</span>
 <br>
-This 3-week intensive course will next be offered in January 2024.
+This 3-week intensive course will next be offered in January 2025.
 <br>
 
 **Schedule:** This is an intensive, 12-session course with a hybrid schedule (i.e., partially in-person and partially online). 
