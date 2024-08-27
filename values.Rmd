@@ -1,0 +1,28 @@
+---
+title: "Lab Values"
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
+---
+
+<b> These values were collectively drafted by Marine Ecological Theory Lab Members during Fall 2023. </b>
+
+<div style="text-align: left">  
+
+- Our lab group encourages passion, excitement, and curiosity. We are not afraid to try challenging new projects and take risks. Each lab member is welcome to work on different research projects and other opportunities outside of their main research topic.
+
+- We promote transparency and communication by dealing with conflict openly, clearly, and respectfully. Our lab is a safe space to raise problems or issues. We are also available to each other for help and feedback. We ensure everyone feels comfortable, and that there is no hierarchy in our group; everyone's ideas deserve to be heard. We function as a non-competitive team.
+
+- We support, contribute to, and live out the ideals of Diversity, Equity, Inclusion, and Belonging (DEIB) by abiding by the [UH Student Code of Conduct](https://manoa.hawaii.edu/studentsuccess/conduct-code/policies/) and encourage the utilization of [UH DEIB Campus Resources](https://manoa.hawaii.edu/campus-life/diversity/). We treat everyone with humanity, courtesy, understanding, kindness, and compassion. We have zero tolerance for harassment or discrimination of any kind.
+
+- We are highly collaborative within our lab group, HIMB, UH Mānoa, and beyond. We foster partnerships across government agencies and the local community in order to make our work impactful beyond academia.
+
+- In our work, we uphold the principles of the [Kūlana Noi‘i](https://seagrant.soest.hawaii.edu/kulana-noii/). We acknowledge that our work is being conducted in Indigenous spaces and it is our responsibility to educate ourselves on the historical and present-day context of these spaces. We listen to, learn from, and engage with local communities in the areas where we work. We equally value all ways of knowing.
+
+- We are committed to open science (while respecting the privacy and rights of community partners) and upholding scientific integrity. We acknowledge the important role of scientists to clearly and accurately represent their research. We ensure that all software is available.
+
+- We support work-life balance. We value each other's time and wellbeing in personal and professional spheres. We acknowledge the importance of balance in producing high-quality work.
+
+
+</div>

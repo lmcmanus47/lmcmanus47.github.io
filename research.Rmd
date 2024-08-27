@@ -10,7 +10,8 @@ output:
 These are some of the projects we are currently working on.
 
 <center>
-![](aquadive2.jpg)
+<!--!![](aquadive2.jpg) --->
+![](fishies.jpg)
 </center>
 <br>
 

@@ -6,7 +6,7 @@ output:
        in_header: GA_Script.html
 ---
 
-As an advisor, I seek to promote scientific rigor, self-confidence and collegiality. As my mentee, I will support you in your scientific research and career goals to help you thrive as an independent scientist. Fostering a respectful and collaborative atmosphere in my lab is of the utmost importance to me, and I am excited about working with people that hold these same values!
+As an advisor, I seek to promote scientific rigor, self-confidence and collegiality. As my mentee, I will support you in your scientific research and career goals to help you thrive as an independent scientist. Fostering a respectful and collaborative atmosphere in my lab is of the utmost importance to me, and I am excited about working with people that hold [these same values](https://lmcmanus47.github.io/values.html)!
 
 <b>July 23, 2024: Please note that I am currently NOT accepting graduate students to start in Fall 2025!</b> 
   
@@ -21,8 +21,7 @@ I accept MS and PhD students through the <a href="https://mbiograd.manoa.hawaii.
 
 3. You are broadly interested in working on marine systems and/or climate change impacts on populations. We have active projects addressing questions on coral reefs, oysters and Hawaiian social-ecological systems. I am excited about both basic and applied research questions, as well as general and system-specific ecological and evolutionary questions.
 
-4. You are team-oriented and excited to contribute your passion, ideas and skills to the lab and to the broader communities at HIMB and UH-Manoa.
-
+4. You are team-oriented and excited to contribute your passion, ideas and skills to the lab and to the broader communities at HIMB and UH-Manoa. 
 
 If you are interested in applying to the Marine Ecological Theory Lab, please contact me (mcmanusl(at)hawaii.edu) with a description of your research interests, your research background, a description of your educational background (major, mathematics and other quantitative courses), why you want to work in our lab, your unofficial transcripts and a CV (including GPA). 
 

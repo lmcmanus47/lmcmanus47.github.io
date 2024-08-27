@@ -114,19 +114,8 @@ Hi! My name is Jake Snyder (he/they), and I am a 1st-year Ph.D. student research
 <br>
 <span style="font-size:2.2em;"> Undergraduate Students </span> <br>
 
-<span style="font-size:1.3em;"> Eojin Lee </span> <br>
-<img src="photos/Eojin2.jpg" style="height: 280px; padding-right: 10px;" align="left"> 
-I am a senior at Columbia University studying Applied Mathematics. My project seeks to compare the potential for species adaptive capacity and diversity maintentence among large marine ecosystems. <br> 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 
 
@@ -137,6 +126,22 @@ I am a senior at The University of Hawai‘i Mānoa, majoring in Natural Resourc
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+<span style="font-size:2.2em;"> METLab Alumni </span> <br>
+
+<span style="font-size:1.3em;"> Eojin Lee </span> <br>
+Eojin was an undergraduate researcher in the lab from Fall 2021 to Spring 2024 and was a lab technician during Summer 2024. She is currently a PhD student at Stanford University.
+<br> 
 
 </div>
 
