@@ -15,10 +15,18 @@ These are some of the projects we are currently working on.
 </center>
 <br>
 
+### Scientific Machine Learning for Ecosystem Regime Shifts
+This project focuses on developing Scientific Machine Learning (SciML) tools for predicting ecosystem regime shifts. This approach combines the predictive power of machine learning with scientific understanding of ecological dynamics to address critical ecosystem-level challenges. Using Universal Differential Equations, we are advancing machine learning capabilities for ecological dynamics. We are applying SciML to forecast regime shifts in tropical coral ecosystems, freshwater lakes with harmful algal blooms, and mangrove ecosystems. Overall, this project seeks to improve predictive methods for ecosystem changes, enhance interpretability for stakeholders, and promote equitable science by reducing data requirements for predictions in data-poor systems.
+<br>
+<br>
+<br>
+
+
+
 <img src="AdaptivePotential.jpg" alt="Adaptive Potential" style="height: 300px; padding-left: 10px;" align="right">
 <div style="text-align: left">  
 ### Eco-evolutionary dynamics on networks
-The importance of ecological and evolutionary processes in population persistence has been well-explored in marine and terrestrial systems, yet few studies have considered the effects of both components simultaneously. In this project, we are quantifying the contribution of competition, dispersal, and directional selection on the potential for populations to adapt and persist under increasing thermal stress. 
+This research area investigates the interplay between ecological and evolutionary processes in shaping population responses to climate change. We focus on disentangling these processes to assess climate change impacts on connected populations and communities. Using network theory and theoretical modeling, we simulate the adaptive responses of populations under rapid environmental change, considering factors such as demography, selection, and dispersal of heritable traits. Our work has revealed unexpected findings, such as the potentially negative impact of gene flow on population persistence in certain network structures. Current projects extend this approach to Large Marine Ecosystems, examining how temperature increase rates and spatial temperature ranges influence community dynamics and species diversity over time.
 <br>
 
 Relevant work: <a href = "https://doi.org/10.1002/ecy.3381">McManus et al. (2021) Ecology</a>
@@ -34,9 +42,10 @@ Relevant work: <a href = "https://doi.org/10.1002/ecy.3381">McManus et al. (2021
 ### Adaptive capacity of coral populations  
 <img src="photos/GCB_2021.png" alt="Minimum Coral Cover" style="height: 260px; padding-right: 0px; " align="left">  
 <br>
-Quantifying the adaptive capacity of populations responding to climate change is critical to promoting ecosystem resilience. However, adaptation comprises both evolutionary (e.g. evolutionary rescue, genetic swamping) and ecological (e.g. dispersal, competition) components that are linked through feedback loops. This project aims to disentangle these eco-evolutionary processes to assess the impacts of climate change on metapopulations and metacommunities.  
+Our research focuses on quantifying the adaptive capacity of coral populations in response to climate change, a crucial factor in promoting ecosystem resilience. Adaptation is a complex process involving both evolutionary (including gene flow and selection) and ecological components (including dispersal and competition), which are interconnected through feedback loops. To address this complexity, we are applying eco-evolutionary models to real-world scenarios, specifically studying reef networks in the Caribbean and Indo-Pacific regions. Our aim is to predict coral adaptation patterns under rising sea temperatures. Through this work, we seek to disentangle the various eco-evolutionary processes at play, allowing us to better assess the impacts of climate change on coral reef metapopulations and metacommunities.
 
 Relevant work: <br> 
+<a href = "https://par.nsf.gov/servlets/purl/10474274">Colton et al. (2022) Nature Ecology and Evolution</a> <br>
 <a href = "https://doi.org/10.1111/gcb.15725">McManus et al. (2021) Global Change Biology</a> <br>
 <a href = "https://doi.org/10.1111/gcb.14972">McManus et al. (2020) Global Change Biology</a> <br>
 
@@ -50,8 +59,12 @@ How should we conserve evolving populations at the regional scale? In this proje
 <br>
 <br>
 
-### Social-ecological systems
-Coral reefs around the world continue to be negatively impacted by anthropogenic stressors across multiple spatial scales. The effective management of these systems requires the ability to assess the impacts of potential human interventions, which in turn requires an understanding of historical ecological dynamics to serve as a baseline for comparison. One approach that can support both the reconstruction of historical dynamics and assess the impacts of future management scenariosis to develop a dynamical systems model that is parameterized and constrained by historical and contemporary data from diverse sources such as peer-reviewed literature, gray literature and historical accounts. To that end, we are working with colleagues at the <a href="https://heeianerr.org/about-us/">He'eia NERR</a> to develop social-ecological systems models that can assess the impacts of indigenous and contemporary fisheries managment in Hawai'i.
+### Indigenous and Contemporary Marine Resource Management in Hawai'i
+Our research integrates Indigenous practices with contemporary strategies to manage Hawai'i's culturally and economically significant marine resources. We focus on two key projects: (1) assessing the ecosystem impacts of Indigenous practices, such as loko i'a (fishponds), on Hawaiian reefs and surrounding areas, and (2) developing social-ecological models to evaluate both Indigenous and modern management approaches. By studying cross-habitat linkages and incorporating historical ecological data, we aim to understand how these practices affect marine communities and overall ecosystem productivity. This research seeks to enhance the sustainability of marine resources and increase community resilience against climate change.
+
+Relevant work: <br> 
+<a href = "https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4797">Innes-Gold et al. (2024) Ecosphere</a> <br>
+
 </div>
 <br>
 
