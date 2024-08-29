@@ -79,7 +79,20 @@ I’m a Ph.D. student interested in coral reef ecology and ecosystem-based fishe
 <br>
 <br>
 
+<span style="font-size:1.3em;"> Shelbie Ishimaru </span> <br>
+<span style="font-size:1.1em;"> shelbiei (at) hawaii (dot) edu </span> <br>
+<img src="photos/Shelbie.png" style="height: 320px; padding-right: 10px;" align="left"> 
 
+I’m a Ph.D. student studying Marine Biology at the UH Mānoa’s Hawaiʻi Institute of Marine Biology. Being born and raised in Kailua, Hawaiʻi has fueled my passion for conservation especially within the marine environment. I am broadly interested in population dynamics and abundance estimation using mark recapture modeling techniques. I am currently researching population abundance of the Hawaiian green sea turtle (honu) and potential climate-induced stressors to the population. 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <span style="font-size:1.3em;"> Sophia Rahnke </span> <br>
 <span style="font-size:1.1em;"> srahnke (at) hawaii (dot) edu </span> <br>
