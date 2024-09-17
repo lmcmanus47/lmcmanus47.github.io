@@ -141,6 +141,18 @@ I'm a PhD candidate in Ecology at the University of São Paulo, Brazil, research
 <br>
 <span style="font-size:2.2em;"> Undergraduate Students </span> <br>
 
+<span style="font-size:1.3em;"> Seychelle Brainard </span> <br>
+<img src="photos/Seychelle_square.jpg" style="height: 300px; padding-right: 10px;" align="left"> 
+I am a senior at Smith College studying Environmental Science & Policy and Mathematical Statistics. I am interested in understanding how climate change affects coral reef connectivity and the potential for evolutionary adaption to thermal stress. For my senior honors thesis, I am using larval dispersal models to assess how global warming impacts coral connectivity in the Southwest Indian Ocean and evaluates how this information can guide the development and management of effective Marine Protected Areas for coral reef conservation.<br> 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <span style="font-size:1.3em;"> Joshua Brett Pablo </span> <br>
 <img src="photos/Josh.jpg" style="height: 280px; padding-right: 10px;" align="left"> 
