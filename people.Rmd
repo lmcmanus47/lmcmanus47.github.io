@@ -35,14 +35,6 @@ I am also very interested in the intersection of science and policy. After my Ph
 I earned my Ph.D in marine biology at the University of Hawaiʻi  at Mānoa at the Hawaiʻi Institute of Marine Biology under Ruth Gates and Rob Toonen, my masters in Oceanography at the University Aix Marseille, France and my BA in biology at the University of São Paulo, Brazil. 
 
 <br>
-
-<span style="font-size:1.3em;"> Noam Vogt-Vincent, Ph.D. </span> <br>
-<span style="font-size:1.1em;"> nvogt (at) hawaii (dot) edu </span> <br>
-<img src="photos/Noam2.jpg" style="height: 260px; padding-right: 10px;" align="left"> 
-
-I’m a Postdoctoral Research Fellow, researching coral reef range expansion and eco-evolutionary dynamics in response to environmental change. My research at HIMB is supported by the NOAA Climate & Global Change Postdoctoral Program. I completed my Master’s degree in Earth Sciences at the University of Oxford, specialising in palaeoclimate and physical oceanography. I stayed at Oxford for my PhD, which focused on marine dispersal in the western Indian Ocean, specifically marine pollution transport to remote islands, and the large-scale connectivity of coral reef systems. I enjoy working across oceanography, geology and ecology to solve environmental problems, and am also enthusiastic about data visualisation and open science.
-
-<br>
 <br>
 <br>
 <br>
@@ -125,38 +117,11 @@ Hi! My name is Jake Snyder (he/they), and I am a 1st-year Ph.D. student research
 <br>
 <br>
 <br>
-<span style="font-size:2.5em;"> Visiting Researchers </span> <br>
-
-<span style="font-size:1.3em;"> Amanda Campos </span> <br>
-<span style="font-size:1.1em;"> camposam (at) hawaii (dot) edu </span> <br>
-<img src="photos/Amanda.png" style="height: 310px; padding-right: 10px;" align="left"> 
-
-I'm a PhD candidate in Ecology at the University of São Paulo, Brazil, researching how the pace of environmental change affects coral reef ecosystems. I'm currently collaborating with Dr. McManus' lab to investigate the impact of rising temperatures on coral metacommunities considering coral's evolutionary potential. During my Master’s studies, I investigated how microbial communities influence coral holobiont health and disease, which ignited my passion for understanding ecological dynamics. My research interests include community ecology theory, mathematical modeling, environmental microbiology, and bioinformatics. When I'm not simulating coral communities, you can find me at a local coffee shop, practicing yoga, or creating digital collages.
-
-<a href="https://scholar.google.com.br/citations?user=tF4Of2wAAAAJ&hl=pt-BR&oi=ao"> ![](logo_GoogleScholar.png){width=6%} </a>
-
-<br>
-<br>
-<br>
-<br>
-<span style="font-size:2.2em;"> Undergraduate Students </span> <br>
-
-<span style="font-size:1.3em;"> Seychelle Brainard </span> <br>
-<img src="photos/Seychelle_square.jpg" style="height: 300px; padding-right: 10px;" align="left"> 
-I am a senior at Smith College studying Environmental Science & Policy and Mathematical Statistics. I am interested in understanding how climate change affects coral reef connectivity and the potential for evolutionary adaption to thermal stress. For my senior honors thesis, I am using larval dispersal models to assess how global warming impacts coral connectivity in the Southwest Indian Ocean and evaluates how this information can guide the development and management of effective Marine Protected Areas for coral reef conservation.<br> 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<span style="font-size:2.5em;"> Lab Technicians </span> <br>
 
 <span style="font-size:1.3em;"> Joshua Brett Pablo </span> <br>
 <img src="photos/Josh.jpg" style="height: 280px; padding-right: 10px;" align="left"> 
-I am a graduate of The University of Hawai‘i Mānoa, majoring in Natural Resource Environmental Management and specializing in coastal management. I am particularly interested in aquaculture in Hawai‘i and developing strategies incorporating both traditional Hawaiian and modern aquaculture practices that promote efficiency and sustainability.<br> 
+I am a graduate of The University of Hawai‘i Mānoa, earning my Bachelor of Science in Natural Resource Environmental Management, specializing in coastal ecology. I am particularly interested in fisheries in Hawai‘i and developing strategies incorporating both traditional Hawaiian and modern fishery practices that promote efficiency, sustainability and improved food security.<br> 
 
 
 <br>
@@ -173,6 +138,18 @@ I am a graduate of The University of Hawai‘i Mānoa, majoring in Natural Resou
 
 
 <span style="font-size:2.2em;"> METLab Alumni </span> <br>
+
+<span style="font-size:1.3em;"> Noam Vogt-Vincent </span> <br>
+Noam was a postdoctoral researcher in the lab from Fall 2023 to Summer 2025. Noam is now an Associate Professor in the Department of Earth Sciences at the University of Oxford.
+<br> 
+
+<span style="font-size:1.3em;"> Amanda Campos </span> <br>
+Amanda was a visiting PhD candidate researcher from the University of São Paulo, Brazil. Amanda was in the lab from Summer 2024 to Summer 2025.
+<br> 
+
+<span style="font-size:1.3em;"> Seychelle Brainard </span> <br>
+Seychelle was an undergraduate researcher in the lab from Summer 2024 to Spring 2025. 
+<br> 
 
 <span style="font-size:1.3em;"> Sophia Girand </span> <br>
 Sophia was an undergraduate researcher in the lab during Summer 2023.
