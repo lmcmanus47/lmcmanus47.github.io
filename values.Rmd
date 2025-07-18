@@ -22,7 +22,7 @@ output:
 
 - We are committed to open science (while respecting the privacy and rights of community partners) and upholding scientific integrity. We acknowledge the important role of scientists to clearly and accurately represent their research. We ensure that all software is available.
 
-- We support work-life balance. We value each other's time and wellbeing in personal and professional spheres. We acknowledge the importance of balance in producing high-quality work.
+- We support work-life balance. We value each other's time and well-being in personal and professional spheres. We acknowledge the importance of balance in producing high-quality work.
 
 
 </div>
