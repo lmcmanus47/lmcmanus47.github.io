@@ -15,8 +15,8 @@ I'm a marine ecologist and theoretician working at the <a href="http://www.himb.
 
 I use mathematical and computational approaches to investigate the role of networks on coral adaptive capacity using <a href="https://doi.org/10.1101/2021.02.04.429453">an eco-evolutionary framework that incorporates competition, dispersal and directional selection</a>. I've also conducted work to understand the factors that maintain stability on reefs, including the possibility of alternative stable states, both at <a href="https://doi.org/10.1007/s12080-018-0388-x">a single reef patch</a> and across thousands of reefs in <a href="https://doi.org/10.1111/gcb.14972">the Coral Triangle</a>. Many of my models use larval dispersal estimates derived from ocean circulation models.
 
-I earned my Bachelor's degree from the University of Miami's Rosenstiel School of Marine and Atmospheric Science, and my PhD from the Department of Ecology and Evolutionary Biology at Princeton University through the <a href="https://slevin.princeton.edu/">Levin Lab</a>. I was subsequently a postdoctoral fellow at the 
-<a href="https://pinsky.marine.rutgers.edu/">Pinsky Lab</a> at Rutgers University. <br>
+I earned my Bachelor's degree from the University of Miami's Rosenstiel School of Marine and Atmospheric Science, and my PhD from the Department of Ecology and Evolutionary Biology at Princeton University through the <a href="https://slevin.princeton.edu/">Levin Lab</a>. I was subsequently a postdoctoral fellow with the
+<a href="https://globalchange.sites.ucsc.edu/people/malin-pinsky/">Pinsky Lab</a> at Rutgers University (now at UC Santa Cruz). <br>
 
 <a href="https://github.com/lmcmanus47/"> ![](logo_Github.png) </a> 
 <a href="https://twitter.com/lc_mcmanus"> ![](logo_Twitter.png) </a> 
@@ -130,8 +130,10 @@ Amanda was a visiting PhD candidate researcher from the University of São Paulo
 Sophia was an undergraduate researcher in the lab during Summer 2023.
 <br> 
 
-<span style="font-size:1.3em;"> Annie Innes-Gold </span> <br>
-Annie was a graduate student in the lab from Spring 2021 to Fall 2025. She is currently a postdoctoral researcher at the University of British Columbia.
+<span style="font-size:1.3em;"> Annie Innes-Gold, Ph.D. </span> <br>
+Annie was a Ph.D. student in the lab from Spring 2021 to Fall 2025. She is currently a postdoctoral researcher at the University of British Columbia.
+
+Thesis: <i>Where People Meet the Sea: Climate Change, Resource Management, and Biocultural Restoration Drive Fish Population and Fisheries Dynamics in Hawaiʻi</i>
 <br> 
 
 <span style="font-size:1.3em;"> Eojin Lee </span> <br>
@@ -146,7 +148,7 @@ Katherine was an high school researcher in the lab during Fall 2020.
 Josh was an undergraduate researcher from Spring 2023 to Fall 2025 and our lab manager until Summer 2026. He is currently a graduate student at the University of Hawaiʻi at Mānoa's Fisheries Graduate Program.
 <br> 
 
-<span style="font-size:1.3em;"> Noam Vogt-Vincent </span> <br>
+<span style="font-size:1.3em;"> Noam Vogt-Vincent, Ph.D. </span> <br>
 Noam was a postdoctoral researcher in the lab from Fall 2023 to Summer 2025. Noam is now an Associate Professor in the Department of Earth Sciences at the University of Oxford.
 <br> 
 
