@@ -26,11 +26,14 @@ I earned my Bachelor's degree from the University of Miami's Rosenstiel School o
 <br>
 <span style="font-size:2.5em;"> Postdoctoral Researchers </span> <br>
 
-<span style="font-size:1.3em;"> David M. Anderson, Ph.D. </span> <br>
+<span style="font-size:1.3em;"> 
+<a href="https://davidmerrillanderson.weebly.com/">
+David M. Anderson, Ph.D. 
+</a> </span> <br>
 <span style="font-size:1.1em;"> da4786 (at) hawaii (dot) edu </span> <br>
 <img src="photos/David.jpeg" style="height: 280px; padding-right: 10px;" align="left"> 
 
-My <a href="https://davidmerrillanderson.weebly.com/">research</a> focuses on the strategies that organisms employ to acquire, transform, and allocate energy and material resources. How do these strategies evolve in changing environments, how are they constrained by physiology, and how do they influence ecological processes and functions?  I address these questions with a combination of quantitative and empirical approaches, and I work primarily on aquatic systems and organisms. Here in the MET lab at HIMB, I am working to better understand the structure and dynamics of coral-algal symbioses.
+My research focuses on the strategies that organisms employ to acquire, transform, and allocate energy and material resources. How do these strategies evolve in changing environments, how are they constrained by physiology, and how do they influence ecological processes and functions?  I address these questions with a combination of quantitative and empirical approaches, and I work primarily on aquatic systems and organisms. Here in the MET lab at HIMB, I am working to better understand the structure and dynamics of coral-algal symbioses.
 
 <br>
 <br>
@@ -53,6 +56,18 @@ I earned my Ph.D in marine biology at the University of Hawaiʻi  at Mānoa at t
 
 <span style="font-size:2.5em;"> Graduate Students </span> <br>
 
+<span style="font-size:1.3em;"> 
+<a href="https://www.linkedin.com/in/finniancashel/">
+Finnian Cashel 
+</a> </span> <br>
+<span style="font-size:1.1em;"> fcashel (at) hawaii (dot) edu </span> <br>
+<img src="photos/Finn_headshot.png" style="height: 290px; padding-right: 10px;" align="left"> 
+
+I am a Ph.D. student in Marine Biology at the University of Hawaiʻi at Mānoa’s Hawaiʻi Institute of Marine Biology. I earned my B.S. in Marine Biology from the College of Charleston’s Honors College in 2020. Before beginning my Ph.D., I worked as an ORISE Research Fellow with the U.S. Environmental Protection Agency and as a Research Intern with the Australian Institute of Marine Science. My research examines the physical drivers of larval connectivity on coral reefs and how these processes influence population connectivity, community dynamics, and the resilience of reef ecosystems under climate change. I am interested in interdisciplinary, collaborative approaches that advance reef restoration andsupport marine conservation efforts in partnership with federal, state, and local organizations. In my free time, I enjoy scuba diving, sailing, hiking, skiing, and spending time with friends and family.
+<br>
+<br>
+<br>
+<br>
 
 <span style="font-size:1.3em;"> Nathan Fitzpatrick </span> <br>
 <span style="font-size:1.1em;"> nmf68 (at) hawaii (dot) edu </span> <br>
@@ -104,7 +119,7 @@ I'm a Ph.D. candidate broadly interested in the biology, ecology, and conservati
 <span style="font-size:1.1em;"> jtsnyder (at) hawaii (dot) edu </span> <br>
 <img src="photos/Jake_headshot.png" style="height: 300px; padding-right: 10px;" align="left"> 
 
-Hi! My name is Jake Snyder (he/they), and I am a 1st-year Ph.D. student researching the impact of sedimentation on the interactions between fish herbivory, algal cover, and coral growth. I was raised in Hummelstown, Pennsylvania, and I earned my Bachelor of Science in Biology with minors in art and marine science from The Pennsylvania State University in Spring 2023. During my undergraduate career, I conducted research in Dr. Mónica Medina’s lab at Penn State and completed an internship with NOAA PIFSC through the Ernest F. Hollings Scholarship. Outside of my research, I am passionate about art and LGBTQIA+ advocacy.
+Hi! My name is Jake Snyder (he/they), and I am a Ph.D. candidate researching the impact of sedimentation on the interactions between fish herbivory, algal cover, and coral growth. I was raised in Hummelstown, Pennsylvania, and I earned my Bachelor of Science in Biology with minors in art and marine science from The Pennsylvania State University in Spring 2023. During my undergraduate career, I conducted research in Dr. Mónica Medina’s lab at Penn State and completed an internship with NOAA PIFSC through the Ernest F. Hollings Scholarship. Outside of my research, I am passionate about art and LGBTQIA+ advocacy.
 
 <br>
 <br>
