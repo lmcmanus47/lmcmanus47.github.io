@@ -98,22 +98,6 @@ I’m a Ph.D. student studying Marine Biology at the UH Mānoa’s Hawaiʻi Inst
 <br>
 <br>
 
-<span style="font-size:1.3em;"> Sophia Rahnke </span> <br>
-<span style="font-size:1.1em;"> srahnke (at) hawaii (dot) edu </span> <br>
-<img src="photos/Sophia3.jpg" style="height: 320px; padding-right: 10px;" align="left"> 
-
-I'm a Ph.D. candidate broadly interested in the biology, ecology, and conservation of coral reef ecosystems. I'm particularly interested in studying questions at the intersection of biology and policy, and hope that my work will connect these components to achieve conservation and sustainability goals. My research will use modeling as a tool to understand coral reef fisheries as social-ecological systems and assess the effectiveness of different forms of management in Hawaiʻi under predicted climate change scenarios. 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 <span style="font-size:1.3em;"> Jake Snyder </span> <br>
 <span style="font-size:1.1em;"> jtsnyder (at) hawaii (dot) edu </span> <br>
@@ -129,6 +113,25 @@ Hi! My name is Jake Snyder (he/they), and I am a Ph.D. candidate researching the
 <br>
 <br>
 <br>
+
+<span style="font-size:2.5em;"> Visiting Researchers </span> <br>
+
+<span style="font-size:1.3em;"> Lisa Höltinger </span> <br>
+<span style="font-size:1.1em;"> lisahoel (at) hawaii (dot) edu </span> <br>
+<img src="photos/LisaH.png" style="height: 320px; padding-right: 10px;" align="left"> 
+
+Lisa Höltinger is a master’s student in Computational Science and Engineering at TU Wien, Austria. Fascinated by the ocean and the complexity of its ecosystems, she is interested in how scientific research can contribute to meaningful conservation efforts. Her research combines computational fluid dynamics (CFD) and coral reef ecology to investigate how the geometry of artificial reef structures shapes water flow and influences coral larval transport, settlement, and early survival. She enjoys bringing together different perspectives, from mathematical modelling to hands-on marine conservation, and hopes to contribute to restoration approaches that give coral reefs a better chance to thrive.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 <span style="font-size:2.2em;"> METLab Alumni </span> <br>
@@ -161,6 +164,12 @@ Katherine was an high school researcher in the lab during Fall 2020.
 
 <span style="font-size:1.3em;"> Josh Pablo </span> <br>
 Josh was an undergraduate researcher from Spring 2023 to Fall 2025 and our lab manager until Summer 2026. He is currently a graduate student at the University of Hawaiʻi at Mānoa's Fisheries Graduate Program.
+<br> 
+
+<span style="font-size:1.3em;"> Sophia Rahnke </span> <br>
+Sophia was a Ph.D. student in the lab from Fall 2021 to Fall 2026. She is currently a postdoctoral researcher at the University of Hawaiʻi at Mānoa.
+
+Thesis: <i>Interacting Drivers of Coral Reef Fisheries in Hawaiʻi: Trophic Dynamics, Climate Change, and Management</i>
 <br> 
 
 <span style="font-size:1.3em;"> Noam Vogt-Vincent, Ph.D. </span> <br>
